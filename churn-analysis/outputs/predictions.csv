@@ -1,0 +1,1058 @@
+customer_id,churn_probability,risk_band,top_reason_indicators,recommended_queue,actual_churned
+CUST-2133,0.992,High,charges_per_tenure ↑; tenure_months ↑; contacts_per_tenure_month ↑,Priority retention review,1
+CUST-2760,0.992,High,charges_per_tenure ↑; tenure_months ↑; contacts_per_tenure_month ↑,Priority retention review,1
+CUST-1991,0.99,High,charges_per_tenure ↑; contacts_per_tenure_month ↑; n_contacts_30d ↑,Priority retention review,1
+CUST-2213,0.989,High,charges_per_tenure ↑; tenure_months ↑; n_repeat_contacts ↑,Priority retention review,1
+CUST-2481,0.988,High,tenure_months ↑; avg_resolution_hours ↑; charges_per_tenure ↑,Priority retention review,1
+CUST-1978,0.987,High,n_contacts_30d ↑; tenure_months ↑; charges_per_tenure ↑,Priority retention review,1
+CUST-2534,0.986,High,charges_per_tenure ↑; contacts_per_tenure_month ↑; tenure_months ↑,Priority retention review,1
+CUST-1456,0.984,High,charges_per_tenure ↑; tenure_months ↑; n_repeat_contacts ↑,Priority retention review,1
+CUST-2416,0.981,High,charges_per_tenure ↑; tenure_months ↑; contacts_per_tenure_month ↑,Priority retention review,1
+CUST-1490,0.979,High,tenure_months ↑; n_contacts_30d ↑; charges_per_tenure ↑,Priority retention review,1
+CUST-1507,0.976,High,charges_per_tenure ↑; tenure_months ↑; n_contacts_30d ↑,Priority retention review,1
+CUST-1129,0.971,High,avg_resolution_hours ↑; charges_per_tenure ↑; tenure_months ↑,Priority retention review,1
+CUST-1418,0.971,High,tenure_months ↑; charges_per_tenure ↑; avg_resolution_hours ↑,Priority retention review,1
+CUST-1158,0.969,High,charges_per_tenure ↑; tenure_months ↑; internet_service_Fiber optic ↑,Priority retention review,1
+CUST-1464,0.968,High,charges_per_tenure ↑; tenure_months ↑; contacts_per_tenure_month ↑,Priority retention review,1
+CUST-2712,0.967,High,charges_per_tenure ↑; tenure_months ↑; contacts_per_tenure_month ↑,Priority retention review,1
+CUST-1161,0.967,High,charges_per_tenure ↑; tenure_months ↑; reopen_count ↑,Priority retention review,1
+CUST-1731,0.965,High,charges_per_tenure ↑; tenure_months ↑; n_repeat_contacts ↑,Priority retention review,1
+CUST-1881,0.964,High,charges_per_tenure ↑; tenure_months ↑; reopen_count ↑,Priority retention review,1
+CUST-1886,0.964,High,charges_per_tenure ↑; tenure_months ↑; internet_service_Fiber optic ↑,Priority retention review,1
+CUST-1033,0.963,High,charges_per_tenure ↑; avg_resolution_hours ↑; tenure_months ↑,Priority retention review,1
+CUST-2339,0.962,High,charges_per_tenure ↑; tenure_months ↑; internet_service_Fiber optic ↑,Priority retention review,1
+CUST-1446,0.96,High,tenure_months ↑; charges_per_tenure ↑; internet_service_Fiber optic ↑,Priority retention review,1
+CUST-2409,0.959,High,tenure_months ↑; charges_per_tenure ↑; contacts_per_tenure_month ↑,Priority retention review,1
+CUST-2818,0.958,High,charges_per_tenure ↑; tenure_months ↑; contacts_per_tenure_month ↑,Priority retention review,1
+CUST-7213,0.951,High,charges_per_tenure ↑; tenure_months ↑; internet_service_Fiber optic ↑,Priority retention review,0
+CUST-1275,0.951,High,avg_resolution_hours ↑; tenure_months ↑; internet_service_Fiber optic ↑,Priority retention review,1
+CUST-1641,0.948,High,charges_per_tenure ↑; tenure_months ↑; avg_resolution_hours ↑,Priority retention review,1
+CUST-1587,0.948,High,reopen_count ↑; service_friction_score ↑; internet_service_Fiber optic ↑,Priority retention review,1
+CUST-2765,0.947,High,charges_per_tenure ↑; tenure_months ↑; internet_service_Fiber optic ↑,Priority retention review,1
+CUST-1453,0.945,High,charges_per_tenure ↑; tenure_months ↑; internet_service_Fiber optic ↑,Priority retention review,1
+CUST-1925,0.945,High,n_contacts_30d ↑; service_friction_score ↑; reopen_count ↑,Priority retention review,1
+CUST-1028,0.94,High,tenure_months ↑; charges_per_tenure ↑; internet_service_Fiber optic ↑,Priority retention review,1
+CUST-2125,0.94,High,tenure_months ↑; charges_per_tenure ↑; internet_service_Fiber optic ↑,Priority retention review,1
+CUST-2580,0.939,High,avg_resolution_hours ↑; tenure_months ↑; internet_service_Fiber optic ↑,Priority retention review,1
+CUST-2004,0.938,High,charges_per_tenure ↑; n_repeat_contacts ↑; tenure_months ↑,Priority retention review,1
+CUST-1988,0.935,High,tenure_months ↑; n_repeat_contacts ↑; charges_per_tenure ↑,Priority retention review,1
+CUST-1200,0.932,High,charges_per_tenure ↑; tenure_months ↑; internet_service_Fiber optic ↑,Priority retention review,1
+CUST-2698,0.932,High,tenure_months ↑; charges_per_tenure ↑; contacts_per_tenure_month ↑,Priority retention review,1
+CUST-2493,0.93,High,charges_per_tenure ↑; tenure_months ↑; internet_service_Fiber optic ↑,Priority retention review,1
+CUST-1705,0.929,High,reopen_count ↑; tenure_months ↑; charges_per_tenure ↑,Priority retention review,1
+CUST-2194,0.929,High,tenure_months ↑; charges_per_tenure ↑; service_friction_score ↑,Priority retention review,1
+CUST-2669,0.927,High,charges_per_tenure ↑; tenure_months ↑; internet_service_Fiber optic ↑,Priority retention review,1
+CUST-5799,0.926,High,tenure_months ↑; internet_service_Fiber optic ↑; plan_type_Month-to-month ↑,Priority retention review,0
+CUST-1619,0.921,High,charges_per_tenure ↑; tenure_months ↑; internet_service_Fiber optic ↑,Priority retention review,1
+CUST-6879,0.921,High,charges_per_tenure ↑; tenure_months ↑; reopen_count ↑,Priority retention review,0
+CUST-2848,0.921,High,tenure_months ↑; internet_service_Fiber optic ↑; open_unresolved_count ↑,Priority retention review,1
+CUST-7510,0.92,High,tenure_months ↑; charges_per_tenure ↑; internet_service_Fiber optic ↑,Priority retention review,0
+CUST-1521,0.919,High,n_repeat_contacts ↑; tenure_months ↑; internet_service_Fiber optic ↑,Priority retention review,1
+CUST-1187,0.914,High,tenure_months ↑; charges_per_tenure ↑; internet_service_Fiber optic ↑,Priority retention review,1
+CUST-1452,0.909,High,charges_per_tenure ↑; tenure_months ↑; reopen_count ↑,Priority retention review,1
+CUST-2272,0.909,High,tenure_months ↑; charges_per_tenure ↑; internet_service_Fiber optic ↑,Priority retention review,1
+CUST-7613,0.908,High,tenure_months ↑; charges_per_tenure ↑; internet_service_Fiber optic ↑,Priority retention review,0
+CUST-2816,0.908,High,tenure_months ↑; charges_per_tenure ↑; internet_service_Fiber optic ↑,Priority retention review,1
+CUST-2111,0.906,High,tenure_months ↑; reopen_count ↑; internet_service_Fiber optic ↑,Priority retention review,1
+CUST-1395,0.905,High,tenure_months ↑; internet_service_Fiber optic ↑; plan_type_Month-to-month ↑,Priority retention review,1
+CUST-6341,0.903,High,tenure_months ↑; avg_resolution_hours ↑; internet_service_Fiber optic ↑,Priority retention review,0
+CUST-1875,0.902,High,tenure_months ↑; charges_per_tenure ↑; contacts_per_tenure_month ↑,Priority retention review,1
+CUST-1640,0.902,High,tenure_months ↑; avg_resolution_hours ↑; internet_service_Fiber optic ↑,Priority retention review,1
+CUST-1826,0.901,High,n_contacts_30d ↑; tenure_months ↑; contacts_per_tenure_month ↑,Priority retention review,1
+CUST-5062,0.899,High,tenure_months ↑; charges_per_tenure ↑; reopen_count ↑,Priority retention review,0
+CUST-1533,0.898,High,reopen_count ↑; tenure_months ↓; service_friction_score ↑,Priority retention review,1
+CUST-1985,0.897,High,tenure_months ↑; internet_service_Fiber optic ↑; open_unresolved_count ↑,Priority retention review,1
+CUST-3664,0.894,High,tenure_months ↑; charges_per_tenure ↑; internet_service_Fiber optic ↑,Priority retention review,0
+CUST-5464,0.894,High,n_repeat_contacts ↑; tenure_months ↑; internet_service_Fiber optic ↑,Priority retention review,0
+CUST-2306,0.893,High,n_repeat_contacts ↑; tenure_months ↑; open_unresolved_count ↑,Priority retention review,1
+CUST-2521,0.892,High,tenure_months ↑; n_contacts_30d ↑; unresolved_burden ↑,Priority retention review,1
+CUST-2656,0.891,High,charges_per_tenure ↑; tenure_months ↑; internet_service_Fiber optic ↑,Priority retention review,1
+CUST-6364,0.89,High,n_contacts_30d ↑; tenure_months ↑; internet_service_Fiber optic ↑,Priority retention review,0
+CUST-4775,0.889,High,tenure_months ↓; total_charges ↑; n_repeat_contacts ↑,Priority retention review,0
+CUST-1145,0.888,High,tenure_months ↑; charges_per_tenure ↑; internet_service_Fiber optic ↑,Priority retention review,1
+CUST-2225,0.885,High,charges_per_tenure ↑; tenure_months ↑; internet_service_Fiber optic ↑,Priority retention review,1
+CUST-6511,0.884,High,reopen_count ↑; tenure_months ↑; internet_service_Fiber optic ↑,Priority retention review,0
+CUST-1470,0.883,High,charges_per_tenure ↑; tenure_months ↑; internet_service_Fiber optic ↑,Priority retention review,1
+CUST-1530,0.882,High,charges_per_tenure ↑; tenure_months ↑; internet_service_Fiber optic ↑,Priority retention review,1
+CUST-6638,0.881,High,tenure_months ↑; n_repeat_contacts ↑; internet_service_Fiber optic ↑,Priority retention review,0
+CUST-2397,0.88,High,tenure_months ↑; internet_service_Fiber optic ↑; plan_type_Month-to-month ↑,Priority retention review,1
+CUST-1192,0.879,High,charges_per_tenure ↑; tenure_months ↑; internet_service_Fiber optic ↑,Priority retention review,1
+CUST-1783,0.878,High,escalation_count ↑; tenure_months ↑; service_friction_score ↑,Priority retention review,1
+CUST-7380,0.877,High,n_repeat_contacts ↑; tenure_months ↑; internet_service_Fiber optic ↑,Priority retention review,0
+CUST-3131,0.877,High,avg_resolution_hours ↑; tenure_months ↑; internet_service_Fiber optic ↑,Priority retention review,0
+CUST-1708,0.873,High,tenure_months ↑; internet_service_Fiber optic ↑; plan_type_Month-to-month ↑,Priority retention review,1
+CUST-2248,0.872,High,tenure_months ↑; charges_per_tenure ↑; internet_service_Fiber optic ↑,Priority retention review,1
+CUST-1922,0.871,High,tenure_months ↑; open_unresolved_count ↑; plan_type_Month-to-month ↑,Priority retention review,1
+CUST-2269,0.869,High,tenure_months ↑; internet_service_Fiber optic ↑; charges_per_tenure ↑,Priority retention review,1
+CUST-1523,0.869,High,charges_per_tenure ↑; tenure_months ↑; internet_service_Fiber optic ↑,Priority retention review,1
+CUST-1848,0.868,High,internet_service_Fiber optic ↑; plan_type_Month-to-month ↑; total_charges ↑,Priority retention review,1
+CUST-2615,0.865,High,reopen_count ↑; tenure_months ↑; internet_service_Fiber optic ↑,Priority retention review,1
+CUST-1684,0.865,High,tenure_months ↑; internet_service_Fiber optic ↑; plan_type_Month-to-month ↑,Priority retention review,1
+CUST-5551,0.864,High,charges_per_tenure ↑; tenure_months ↑; internet_service_Fiber optic ↑,Priority retention review,0
+CUST-1601,0.862,High,tenure_months ↓; total_charges ↑; avg_resolution_hours ↑,Priority retention review,1
+CUST-1460,0.861,High,total_charges ↑; internet_service_Fiber optic ↑; plan_type_Month-to-month ↑,Priority retention review,1
+CUST-1362,0.861,High,avg_resolution_hours ↑; tenure_months ↑; internet_service_Fiber optic ↑,Priority retention review,1
+CUST-4505,0.86,High,open_unresolved_count ↑; unresolved_burden ↑; internet_service_Fiber optic ↑,Priority retention review,0
+CUST-2514,0.859,High,tenure_months ↑; internet_service_Fiber optic ↑; plan_type_Month-to-month ↑,Priority retention review,1
+CUST-2517,0.857,High,tenure_months ↑; internet_service_Fiber optic ↑; plan_type_Month-to-month ↑,Priority retention review,1
+CUST-1916,0.856,High,tenure_months ↓; unresolved_burden ↑; total_charges ↑,Priority retention review,1
+CUST-1732,0.855,High,tenure_months ↑; avg_resolution_hours ↑; internet_service_Fiber optic ↑,Priority retention review,1
+CUST-1911,0.854,High,n_repeat_contacts ↑; tenure_months ↑; internet_service_Fiber optic ↑,Priority retention review,1
+CUST-1035,0.853,High,tenure_months ↑; charges_per_tenure ↑; plan_type_Month-to-month ↑,Priority retention review,1
+CUST-2527,0.853,High,avg_resolution_hours ↑; internet_service_Fiber optic ↑; plan_type_Month-to-month ↑,Priority retention review,1
+CUST-2293,0.851,High,n_contacts_30d ↑; internet_service_Fiber optic ↑; plan_type_Month-to-month ↑,Priority retention review,1
+CUST-7550,0.849,High,tenure_months ↑; charges_per_tenure ↑; internet_service_Fiber optic ↑,Priority retention review,0
+CUST-1404,0.849,High,tenure_months ↑; internet_service_Fiber optic ↑; plan_type_Month-to-month ↑,Priority retention review,1
+CUST-2048,0.848,High,n_repeat_contacts ↑; internet_service_Fiber optic ↑; plan_type_Month-to-month ↑,Priority retention review,1
+CUST-1406,0.847,High,tenure_months ↑; charges_per_tenure ↑; reopen_count ↑,Priority retention review,1
+CUST-1652,0.846,High,charges_per_tenure ↑; tenure_months ↑; internet_service_Fiber optic ↑,Priority retention review,1
+CUST-1803,0.845,High,tenure_months ↑; internet_service_Fiber optic ↑; plan_type_Month-to-month ↑,Priority retention review,1
+CUST-2776,0.845,High,tenure_months ↑; charges_per_tenure ↑; internet_service_Fiber optic ↑,Priority retention review,1
+CUST-7327,0.845,High,tenure_months ↑; internet_service_Fiber optic ↑; plan_type_Month-to-month ↑,Priority retention review,0
+CUST-4950,0.843,High,tenure_months ↑; plan_type_Month-to-month ↑; internet_service_Fiber optic ↓,Priority retention review,0
+CUST-2169,0.842,High,reopen_count ↑; tenure_months ↑; service_friction_score ↑,Priority retention review,1
+CUST-2029,0.842,High,total_charges ↑; tenure_months ↓; internet_service_Fiber optic ↑,Priority retention review,1
+CUST-5562,0.841,High,tenure_months ↑; internet_service_Fiber optic ↑; plan_type_Month-to-month ↑,Priority retention review,0
+CUST-1809,0.841,High,tenure_months ↑; internet_service_Fiber optic ↑; plan_type_Month-to-month ↑,Priority retention review,1
+CUST-2677,0.841,High,tenure_months ↑; charges_per_tenure ↑; plan_type_Month-to-month ↑,Priority retention review,1
+CUST-1845,0.84,High,escalation_count ↑; internet_service_Fiber optic ↑; plan_type_Month-to-month ↑,Priority retention review,1
+CUST-6015,0.84,High,avg_resolution_hours ↑; total_charges ↑; tenure_months ↓,Priority retention review,0
+CUST-1840,0.839,High,tenure_months ↑; charges_per_tenure ↑; contacts_per_tenure_month ↑,Priority retention review,1
+CUST-6301,0.839,High,tenure_months ↑; charges_per_tenure ↑; internet_service_Fiber optic ↑,Priority retention review,0
+CUST-2633,0.839,High,n_contacts_30d ↑; tenure_months ↑; internet_service_Fiber optic ↑,Priority retention review,1
+CUST-5873,0.838,High,tenure_months ↑; internet_service_Fiber optic ↑; plan_type_Month-to-month ↑,Priority retention review,0
+CUST-1799,0.836,High,tenure_months ↑; internet_service_Fiber optic ↑; plan_type_Month-to-month ↑,Priority retention review,1
+CUST-1519,0.835,High,avg_resolution_hours ↑; internet_service_Fiber optic ↑; open_unresolved_count ↑,Priority retention review,1
+CUST-5772,0.834,High,tenure_months ↑; charges_per_tenure ↑; contacts_per_tenure_month ↑,Priority retention review,0
+CUST-1387,0.833,High,tenure_months ↑; internet_service_Fiber optic ↑; open_unresolved_count ↑,Priority retention review,1
+CUST-2237,0.828,High,charges_per_tenure ↑; tenure_months ↑; plan_type_Month-to-month ↑,Priority retention review,1
+CUST-1439,0.828,High,tenure_months ↓; reopen_count ↑; total_charges ↑,Priority retention review,1
+CUST-3232,0.823,High,tenure_months ↑; internet_service_Fiber optic ↑; plan_type_Month-to-month ↑,Priority retention review,0
+CUST-2660,0.822,High,internet_service_Fiber optic ↑; open_unresolved_count ↑; plan_type_Month-to-month ↑,Priority retention review,1
+CUST-2745,0.822,High,escalation_count ↑; tenure_months ↑; internet_service_Fiber optic ↑,Priority retention review,1
+CUST-1124,0.821,High,tenure_months ↑; charges_per_tenure ↑; internet_service_Fiber optic ↑,Priority retention review,1
+CUST-1313,0.82,High,open_unresolved_count ↑; internet_service_Fiber optic ↑; plan_type_Month-to-month ↑,Priority retention review,1
+CUST-2083,0.82,High,internet_service_Fiber optic ↑; plan_type_Month-to-month ↑; internet_service_No ↑,Priority retention review,1
+CUST-1047,0.817,High,tenure_months ↑; contacts_per_tenure_month ↑; plan_type_Month-to-month ↑,Priority retention review,1
+CUST-2508,0.817,High,avg_resolution_hours ↑; internet_service_Fiber optic ↑; plan_type_Month-to-month ↑,Priority retention review,1
+CUST-6745,0.814,High,tenure_months ↑; internet_service_Fiber optic ↑; plan_type_Month-to-month ↑,Priority retention review,0
+CUST-3856,0.812,High,charges_per_tenure ↑; plan_type_Two year ↓; tenure_months ↑,Priority retention review,0
+CUST-1796,0.811,High,tenure_months ↑; avg_resolution_hours ↑; charges_per_tenure ↑,Priority retention review,1
+CUST-3394,0.809,High,internet_service_Fiber optic ↑; plan_type_Month-to-month ↑; internet_service_No ↑,Priority retention review,0
+CUST-1698,0.807,High,tenure_months ↑; internet_service_Fiber optic ↑; plan_type_Month-to-month ↑,Priority retention review,1
+CUST-4159,0.807,High,n_contacts_30d ↑; total_charges ↑; tenure_months ↓,Priority retention review,0
+CUST-1026,0.806,High,internet_service_Fiber optic ↑; plan_type_Month-to-month ↑; internet_service_No ↑,Priority retention review,1
+CUST-1555,0.805,High,internet_service_Fiber optic ↑; plan_type_Month-to-month ↑; tenure_months ↑,Priority retention review,1
+CUST-3432,0.805,High,tenure_months ↑; charges_per_tenure ↑; internet_service_Fiber optic ↑,Priority retention review,0
+CUST-2853,0.804,High,tenure_months ↑; internet_service_Fiber optic ↑; plan_type_Month-to-month ↑,Priority retention review,1
+CUST-5741,0.804,High,tenure_months ↓; total_charges ↑; internet_service_Fiber optic ↑,Priority retention review,0
+CUST-1194,0.804,High,charges_per_tenure ↑; tenure_months ↑; plan_type_Month-to-month ↑,Priority retention review,1
+CUST-7521,0.802,High,tenure_months ↑; internet_service_Fiber optic ↑; plan_type_Month-to-month ↑,Priority retention review,0
+CUST-3093,0.801,High,tenure_months ↑; charges_per_tenure ↑; internet_service_Fiber optic ↑,Priority retention review,0
+CUST-1693,0.799,High,tenure_months ↑; avg_resolution_hours ↑; charges_per_tenure ↑,Priority retention review,1
+CUST-6948,0.799,High,n_repeat_contacts ↑; internet_service_Fiber optic ↑; plan_type_Month-to-month ↑,Priority retention review,0
+CUST-7677,0.796,High,plan_type_Month-to-month ↑; internet_service_Fiber optic ↓; internet_service_No ↑,Priority retention review,0
+CUST-2762,0.796,High,escalation_count ↑; tenure_months ↑; plan_type_Month-to-month ↑,Priority retention review,1
+CUST-7514,0.794,High,tenure_months ↑; internet_service_Fiber optic ↑; plan_type_Month-to-month ↑,Priority retention review,0
+CUST-1397,0.794,High,internet_service_Fiber optic ↑; plan_type_Month-to-month ↑; tenure_months ↑,Priority retention review,1
+CUST-2739,0.79,High,tenure_months ↑; internet_service_Fiber optic ↑; plan_type_Month-to-month ↑,Priority retention review,1
+CUST-1975,0.788,High,avg_resolution_hours ↑; tenure_months ↑; internet_service_No ↓,Priority retention review,1
+CUST-2807,0.787,High,tenure_months ↑; internet_service_Fiber optic ↑; plan_type_Month-to-month ↑,Priority retention review,1
+CUST-7011,0.783,High,tenure_months ↑; internet_service_Fiber optic ↑; plan_type_Month-to-month ↑,Priority retention review,0
+CUST-1349,0.778,High,tenure_months ↑; avg_resolution_hours ↑; plan_type_Month-to-month ↑,Priority retention review,1
+CUST-4910,0.777,High,tenure_months ↓; total_charges ↑; internet_service_Fiber optic ↑,Priority retention review,0
+CUST-2337,0.777,High,tenure_months ↑; charges_per_tenure ↑; internet_service_Fiber optic ↑,Priority retention review,1
+CUST-5313,0.777,High,tenure_months ↑; charges_per_tenure ↑; internet_service_Fiber optic ↑,Priority retention review,0
+CUST-1053,0.776,High,tenure_months ↑; plan_type_Month-to-month ↑; internet_service_Fiber optic ↓,Priority retention review,1
+CUST-4924,0.776,High,internet_service_Fiber optic ↑; plan_type_Month-to-month ↑; tenure_months ↓,Priority retention review,0
+CUST-2475,0.776,High,reopen_count ↑; internet_service_Fiber optic ↑; plan_type_Month-to-month ↑,Priority retention review,1
+CUST-2546,0.776,High,tenure_months ↑; charges_per_tenure ↑; internet_service_Fiber optic ↑,Priority retention review,1
+CUST-1931,0.775,High,tenure_months ↑; charges_per_tenure ↑; plan_type_Month-to-month ↑,Priority retention review,1
+CUST-1224,0.771,High,tenure_months ↑; internet_service_Fiber optic ↑; plan_type_Month-to-month ↑,Priority retention review,1
+CUST-4800,0.77,High,reopen_count ↑; internet_service_Fiber optic ↑; plan_type_Month-to-month ↑,Priority retention review,0
+CUST-3579,0.77,High,tenure_months ↑; internet_service_Fiber optic ↑; plan_type_Month-to-month ↑,Priority retention review,0
+CUST-1477,0.77,High,tenure_months ↑; charges_per_tenure ↑; plan_type_Month-to-month ↑,Priority retention review,1
+CUST-2742,0.767,High,tenure_months ↑; charges_per_tenure ↑; internet_service_Fiber optic ↑,Priority retention review,1
+CUST-3885,0.766,High,tenure_months ↑; charges_per_tenure ↑; internet_service_Fiber optic ↑,Priority retention review,0
+CUST-4327,0.766,High,avg_resolution_hours ↑; internet_service_Fiber optic ↑; plan_type_Month-to-month ↑,Priority retention review,0
+CUST-1227,0.766,High,tenure_months ↑; plan_type_Month-to-month ↑; contacts_per_tenure_month ↑,Priority retention review,1
+CUST-6400,0.764,High,tenure_months ↑; internet_service_Fiber optic ↑; plan_type_Month-to-month ↑,Priority retention review,0
+CUST-2130,0.763,High,reopen_count ↑; internet_service_Fiber optic ↑; plan_type_Month-to-month ↑,Priority retention review,1
+CUST-1293,0.762,High,internet_service_Fiber optic ↑; plan_type_Month-to-month ↑; total_charges ↑,Priority retention review,1
+CUST-7038,0.758,High,internet_service_Fiber optic ↑; plan_type_Month-to-month ↑; total_charges ↑,Priority retention review,0
+CUST-4369,0.758,High,tenure_months ↑; internet_service_Fiber optic ↑; plan_type_Month-to-month ↑,Priority retention review,0
+CUST-7925,0.757,High,internet_service_Fiber optic ↑; plan_type_Month-to-month ↑; internet_service_No ↑,Priority retention review,0
+CUST-1926,0.756,High,n_contacts_30d ↑; internet_service_Fiber optic ↑; plan_type_Month-to-month ↑,Priority retention review,1
+CUST-5335,0.753,High,tenure_months ↑; internet_service_Fiber optic ↑; plan_type_Month-to-month ↑,Priority retention review,0
+CUST-2360,0.753,High,internet_service_Fiber optic ↑; plan_type_Month-to-month ↑; internet_service_No ↑,Priority retention review,1
+CUST-8027,0.752,High,tenure_months ↓; total_charges ↑; internet_service_Fiber optic ↑,Priority retention review,0
+CUST-7643,0.752,High,tenure_months ↑; internet_service_Fiber optic ↑; plan_type_Month-to-month ↑,Priority retention review,0
+CUST-1770,0.751,High,tenure_months ↑; n_contacts_30d ↑; internet_service_Fiber optic ↑,Priority retention review,1
+CUST-7546,0.751,High,tenure_months ↑; plan_type_Month-to-month ↓; internet_service_Fiber optic ↑,Priority retention review,0
+CUST-2268,0.751,High,internet_service_Fiber optic ↑; plan_type_Month-to-month ↑; avg_resolution_hours ↑,Priority retention review,1
+CUST-2674,0.75,High,tenure_months ↑; charges_per_tenure ↑; contacts_per_tenure_month ↑,Priority retention review,1
+CUST-2044,0.75,High,tenure_months ↑; internet_service_Fiber optic ↑; plan_type_Month-to-month ↑,Priority retention review,1
+CUST-2395,0.747,High,n_repeat_contacts ↑; open_unresolved_count ↑; plan_type_Month-to-month ↑,Priority retention review,1
+CUST-5426,0.746,High,n_contacts_30d ↑; internet_service_Fiber optic ↑; plan_type_Month-to-month ↑,Priority retention review,0
+CUST-6162,0.745,High,internet_service_Fiber optic ↑; plan_type_Month-to-month ↑; tenure_months ↑,Priority retention review,0
+CUST-1184,0.745,High,internet_service_Fiber optic ↑; plan_type_Month-to-month ↑; internet_service_No ↑,Priority retention review,1
+CUST-2032,0.743,High,reopen_count ↑; internet_service_Fiber optic ↑; plan_type_Month-to-month ↑,Priority retention review,1
+CUST-3908,0.742,High,n_repeat_contacts ↑; internet_service_Fiber optic ↑; plan_type_Month-to-month ↑,Priority retention review,0
+CUST-1467,0.742,High,open_unresolved_count ↑; tenure_months ↑; internet_service_Fiber optic ↑,Priority retention review,1
+CUST-7609,0.74,High,internet_service_Fiber optic ↑; plan_type_Month-to-month ↑; internet_service_No ↑,Priority retention review,0
+CUST-3586,0.739,High,n_contacts_30d ↑; internet_service_Fiber optic ↑; plan_type_Month-to-month ↑,Priority retention review,0
+CUST-1807,0.739,High,tenure_months ↑; internet_service_Fiber optic ↑; charges_per_tenure ↑,Priority retention review,1
+CUST-1193,0.739,High,tenure_months ↑; plan_type_Month-to-month ↑; charges_per_tenure ↑,Priority retention review,1
+CUST-5262,0.738,High,n_contacts_30d ↑; tenure_months ↑; plan_type_Month-to-month ↑,Priority retention review,0
+CUST-4533,0.737,High,tenure_months ↑; charges_per_tenure ↑; avg_resolution_hours ↑,Priority retention review,0
+CUST-1638,0.736,High,reopen_count ↑; plan_type_Month-to-month ↓; internet_service_Fiber optic ↑,Priority retention review,1
+CUST-5783,0.734,High,tenure_months ↑; plan_type_Month-to-month ↑; charges_per_tenure ↑,Priority retention review,0
+CUST-1981,0.734,High,tenure_months ↑; plan_type_Month-to-month ↑; internet_service_Fiber optic ↓,Priority retention review,1
+CUST-6330,0.733,High,avg_resolution_hours ↑; tenure_months ↑; internet_service_Fiber optic ↑,Priority retention review,0
+CUST-3914,0.732,High,tenure_months ↓; total_charges ↑; avg_resolution_hours ↑,Priority retention review,0
+CUST-6629,0.727,High,reopen_count ↑; internet_service_Fiber optic ↑; plan_type_Month-to-month ↑,Priority retention review,0
+CUST-6447,0.726,High,tenure_months ↑; internet_service_Fiber optic ↑; plan_type_Month-to-month ↑,Priority retention review,0
+CUST-3406,0.725,High,reopen_count ↑; tenure_months ↓; internet_service_Fiber optic ↑,Priority retention review,0
+CUST-5757,0.724,High,tenure_months ↓; total_charges ↑; n_contacts_30d ↑,Priority retention review,0
+CUST-2683,0.724,High,tenure_months ↓; internet_service_Fiber optic ↑; plan_type_Month-to-month ↑,Priority retention review,1
+CUST-1870,0.723,High,total_charges ↑; internet_service_Fiber optic ↑; plan_type_Month-to-month ↑,Priority retention review,1
+CUST-2672,0.721,High,internet_service_Fiber optic ↑; plan_type_Month-to-month ↑; tenure_months ↑,Priority retention review,1
+CUST-4187,0.721,High,open_unresolved_count ↑; plan_type_Month-to-month ↑; internet_service_Fiber optic ↓,Priority retention review,0
+CUST-1071,0.72,High,internet_service_Fiber optic ↑; plan_type_Month-to-month ↑; tenure_months ↑,Priority retention review,1
+CUST-2311,0.719,High,tenure_months ↑; internet_service_Fiber optic ↑; plan_type_Month-to-month ↑,Priority retention review,1
+CUST-6081,0.715,High,tenure_months ↑; plan_type_Month-to-month ↑; internet_service_Fiber optic ↓,Priority retention review,0
+CUST-7842,0.713,High,internet_service_Fiber optic ↑; plan_type_Month-to-month ↑; internet_service_No ↑,Priority retention review,0
+CUST-1791,0.713,High,n_contacts_30d ↑; tenure_months ↓; internet_service_Fiber optic ↑,Priority retention review,1
+CUST-1383,0.712,High,tenure_months ↑; internet_service_No ↓; contacts_per_tenure_month ↑,Priority retention review,1
+CUST-5630,0.709,High,internet_service_Fiber optic ↑; plan_type_Month-to-month ↑; total_charges ↑,Priority retention review,0
+CUST-1915,0.708,High,tenure_months ↑; n_contacts_30d ↑; plan_type_Month-to-month ↑,Priority retention review,1
+CUST-5495,0.704,High,tenure_months ↑; internet_service_Fiber optic ↑; plan_type_Month-to-month ↑,Priority retention review,0
+CUST-3864,0.702,High,internet_service_No ↓; escalation_count ↑; tenure_months ↑,Priority retention review,0
+CUST-3017,0.701,High,tenure_months ↓; total_charges ↑; internet_service_Fiber optic ↑,Priority retention review,0
+CUST-3071,0.701,High,internet_service_Fiber optic ↑; plan_type_Month-to-month ↑; tenure_months ↑,Priority retention review,0
+CUST-6245,0.699,High,internet_service_Fiber optic ↑; plan_type_Month-to-month ↑; internet_service_No ↑,Priority retention review,0
+CUST-2411,0.698,High,avg_resolution_hours ↑; internet_service_Fiber optic ↑; plan_type_Month-to-month ↑,Priority retention review,1
+CUST-1354,0.697,High,tenure_months ↑; internet_service_Fiber optic ↑; open_unresolved_count ↑,Priority retention review,1
+CUST-1003,0.697,High,internet_service_Fiber optic ↑; plan_type_Month-to-month ↑; internet_service_No ↑,Priority retention review,1
+CUST-6550,0.696,High,tenure_months ↑; open_unresolved_count ↑; plan_type_Month-to-month ↑,Priority retention review,0
+CUST-1375,0.695,High,tenure_months ↑; internet_service_Fiber optic ↑; plan_type_Month-to-month ↑,Priority retention review,1
+CUST-1817,0.695,High,avg_resolution_hours ↑; internet_service_Fiber optic ↑; plan_type_Month-to-month ↑,Priority retention review,1
+CUST-2644,0.694,High,tenure_months ↑; contacts_per_tenure_month ↑; plan_type_Month-to-month ↑,Priority retention review,1
+CUST-1380,0.694,High,tenure_months ↑; internet_service_Fiber optic ↑; plan_type_Month-to-month ↑,Priority retention review,1
+CUST-7688,0.694,High,n_contacts_30d ↑; internet_service_Fiber optic ↑; plan_type_Month-to-month ↑,Priority retention review,0
+CUST-7343,0.691,High,tenure_months ↑; charges_per_tenure ↑; plan_type_Month-to-month ↑,Priority retention review,0
+CUST-1063,0.69,High,tenure_months ↑; n_repeat_contacts ↑; plan_type_Month-to-month ↑,Priority retention review,1
+CUST-2161,0.688,High,internet_service_Fiber optic ↑; plan_type_Month-to-month ↑; avg_resolution_hours ↓,Priority retention review,1
+CUST-1940,0.688,High,tenure_months ↑; charges_per_tenure ↑; internet_service_Fiber optic ↑,Priority retention review,1
+CUST-2513,0.686,High,internet_service_Fiber optic ↑; plan_type_Month-to-month ↑; internet_service_No ↑,Priority retention review,1
+CUST-2468,0.684,High,tenure_months ↓; plan_type_Two year ↓; total_charges ↑,Priority retention review,1
+CUST-1797,0.683,High,internet_service_Fiber optic ↑; plan_type_Month-to-month ↑; internet_service_No ↑,Priority retention review,1
+CUST-2204,0.682,High,internet_service_Fiber optic ↑; plan_type_Month-to-month ↑; internet_service_No ↑,Priority retention review,1
+CUST-3288,0.679,High,tenure_months ↓; total_charges ↑; plan_type_Month-to-month ↓,Priority retention review,0
+CUST-5986,0.678,High,tenure_months ↑; charges_per_tenure ↑; internet_service_Fiber optic ↑,Priority retention review,0
+CUST-1428,0.678,High,internet_service_Fiber optic ↑; plan_type_Month-to-month ↑; tenure_months ↑,Priority retention review,1
+CUST-5027,0.677,High,tenure_months ↓; total_charges ↑; internet_service_Fiber optic ↑,Priority retention review,0
+CUST-7044,0.673,High,tenure_months ↑; charges_per_tenure ↑; internet_service_Fiber optic ↑,Priority retention review,0
+CUST-4549,0.672,High,tenure_months ↑; internet_service_Fiber optic ↑; plan_type_Month-to-month ↑,Priority retention review,0
+CUST-3253,0.669,High,tenure_months ↑; internet_service_Fiber optic ↑; plan_type_Month-to-month ↑,Priority retention review,0
+CUST-5683,0.668,High,tenure_months ↑; internet_service_Fiber optic ↑; plan_type_Month-to-month ↑,Priority retention review,0
+CUST-1952,0.667,High,tenure_months ↑; charges_per_tenure ↑; plan_type_Month-to-month ↑,Priority retention review,1
+CUST-5543,0.667,High,internet_service_Fiber optic ↑; plan_type_Month-to-month ↑; internet_service_No ↑,Priority retention review,0
+CUST-2010,0.666,High,plan_type_Month-to-month ↓; internet_service_Fiber optic ↑; internet_service_No ↑,Priority retention review,1
+CUST-1430,0.665,High,n_contacts_30d ↑; plan_type_Month-to-month ↑; tenure_months ↑,Priority retention review,1
+CUST-1830,0.664,High,internet_service_Fiber optic ↑; plan_type_Month-to-month ↑; internet_service_No ↑,Priority retention review,1
+CUST-3449,0.664,High,internet_service_Fiber optic ↑; plan_type_Month-to-month ↑; tenure_months ↓,Priority retention review,0
+CUST-5802,0.664,High,avg_resolution_hours ↑; n_contacts_30d ↑; tenure_months ↑,Priority retention review,0
+CUST-2356,0.663,High,internet_service_Fiber optic ↑; plan_type_Month-to-month ↑; internet_service_No ↑,Priority retention review,1
+CUST-1918,0.662,High,reopen_count ↑; tenure_months ↓; total_charges ↑,Priority retention review,1
+CUST-1972,0.662,High,internet_service_Fiber optic ↑; plan_type_Month-to-month ↑; internet_service_No ↑,Priority retention review,1
+CUST-6644,0.662,High,tenure_months ↑; internet_service_Fiber optic ↑; plan_type_Month-to-month ↑,Priority retention review,0
+CUST-6147,0.659,High,reopen_count ↑; plan_type_Month-to-month ↑; tenure_months ↑,Priority retention review,0
+CUST-6481,0.656,High,tenure_months ↓; total_charges ↑; internet_service_Fiber optic ↑,Priority retention review,0
+CUST-3646,0.655,High,tenure_months ↑; reopen_count ↑; plan_type_Month-to-month ↑,Priority retention review,0
+CUST-6169,0.654,High,internet_service_Fiber optic ↑; open_unresolved_count ↑; plan_type_Month-to-month ↑,Priority retention review,0
+CUST-2062,0.653,High,avg_resolution_hours ↑; plan_type_Month-to-month ↑; internet_service_Fiber optic ↓,Priority retention review,1
+CUST-6009,0.649,High,internet_service_Fiber optic ↑; plan_type_Month-to-month ↑; internet_service_No ↑,Priority retention review,0
+CUST-7876,0.646,High,tenure_months ↑; internet_service_Fiber optic ↑; plan_type_Month-to-month ↑,Priority retention review,0
+CUST-5288,0.646,High,internet_service_Fiber optic ↑; plan_type_Month-to-month ↑; internet_service_No ↑,Priority retention review,0
+CUST-4997,0.641,High,tenure_months ↑; internet_service_Fiber optic ↑; plan_type_Month-to-month ↑,Priority retention review,0
+CUST-3111,0.639,High,tenure_months ↓; total_charges ↑; internet_service_Fiber optic ↑,Priority retention review,0
+CUST-1777,0.638,High,internet_service_Fiber optic ↑; plan_type_Month-to-month ↑; internet_service_No ↑,Priority retention review,1
+CUST-5586,0.637,High,tenure_months ↑; plan_type_Month-to-month ↑; internet_service_Fiber optic ↓,Priority retention review,0
+CUST-7646,0.633,High,tenure_months ↓; total_charges ↑; internet_service_Fiber optic ↑,Priority retention review,0
+CUST-3862,0.633,High,avg_resolution_hours ↑; tenure_months ↓; plan_type_Month-to-month ↑,Priority retention review,0
+CUST-1773,0.631,High,tenure_months ↑; plan_type_Month-to-month ↑; total_charges ↓,Priority retention review,1
+CUST-1115,0.63,High,tenure_months ↑; plan_type_Month-to-month ↑; internet_service_Fiber optic ↓,Priority retention review,1
+CUST-5767,0.629,High,tenure_months ↑; plan_type_Month-to-month ↑; internet_service_Fiber optic ↓,Priority retention review,0
+CUST-3316,0.628,High,tenure_months ↑; charges_per_tenure ↑; escalation_count ↑,Priority retention review,0
+CUST-3023,0.625,High,tenure_months ↑; internet_service_Fiber optic ↑; plan_type_Month-to-month ↑,Priority retention review,0
+CUST-6842,0.625,High,tenure_months ↑; plan_type_Month-to-month ↑; internet_service_Fiber optic ↓,Priority retention review,0
+CUST-4631,0.625,High,tenure_months ↓; internet_service_Fiber optic ↑; total_charges ↑,Priority retention review,0
+CUST-4017,0.623,High,tenure_months ↑; plan_type_Month-to-month ↑; internet_service_Fiber optic ↓,Priority retention review,0
+CUST-5169,0.622,High,tenure_months ↓; total_charges ↑; n_repeat_contacts ↑,Priority retention review,0
+CUST-2823,0.622,High,tenure_months ↑; n_contacts_30d ↑; plan_type_Month-to-month ↑,Priority retention review,1
+CUST-5132,0.622,High,tenure_months ↑; internet_service_Fiber optic ↑; plan_type_Month-to-month ↑,Priority retention review,0
+CUST-6565,0.621,High,plan_type_Month-to-month ↑; avg_resolution_hours ↑; internet_service_Fiber optic ↓,Priority retention review,0
+CUST-2826,0.62,High,tenure_months ↑; n_repeat_contacts ↑; plan_type_Month-to-month ↑,Priority retention review,1
+CUST-4087,0.62,High,tenure_months ↑; internet_service_No ↓; contacts_per_tenure_month ↑,Priority retention review,0
+CUST-3945,0.619,High,internet_service_Fiber optic ↑; plan_type_Month-to-month ↑; internet_service_No ↑,Priority retention review,0
+CUST-1880,0.614,High,tenure_months ↑; internet_service_Fiber optic ↑; plan_type_Month-to-month ↑,Priority retention review,1
+CUST-7724,0.613,High,internet_service_Fiber optic ↑; plan_type_Month-to-month ↑; total_charges ↑,Priority retention review,0
+CUST-6463,0.607,High,internet_service_Fiber optic ↑; plan_type_Month-to-month ↑; internet_service_No ↑,Priority retention review,0
+CUST-5034,0.607,High,internet_service_Fiber optic ↑; plan_type_Month-to-month ↑; internet_service_No ↑,Priority retention review,0
+CUST-5413,0.605,High,tenure_months ↓; total_charges ↑; avg_resolution_hours ↑,Priority retention review,0
+CUST-6108,0.604,High,tenure_months ↑; internet_service_No ↓; avg_resolution_hours ↑,Priority retention review,0
+CUST-7025,0.604,High,tenure_months ↑; charges_per_tenure ↑; plan_type_Month-to-month ↑,Priority retention review,0
+CUST-2575,0.603,High,internet_service_Fiber optic ↑; plan_type_Month-to-month ↑; tenure_months ↑,Priority retention review,1
+CUST-1527,0.602,High,internet_service_Fiber optic ↑; plan_type_Month-to-month ↑; internet_service_No ↑,Priority retention review,1
+CUST-5722,0.602,High,tenure_months ↑; plan_type_Month-to-month ↑; csat_score ↑,Priority retention review,0
+CUST-3286,0.602,High,tenure_months ↑; internet_service_Fiber optic ↑; plan_type_Month-to-month ↑,Priority retention review,0
+CUST-3214,0.601,High,tenure_months ↑; internet_service_No ↓; plan_type_Month-to-month ↑,Priority retention review,0
+CUST-1879,0.601,High,charges_per_tenure ↑; tenure_months ↑; plan_type_Month-to-month ↑,Priority retention review,1
+CUST-5747,0.598,Medium,internet_service_Fiber optic ↑; plan_type_Month-to-month ↑; tenure_months ↑,Service follow-up,0
+CUST-4437,0.598,Medium,tenure_months ↑; internet_service_Fiber optic ↑; plan_type_Month-to-month ↑,Service follow-up,0
+CUST-1252,0.597,Medium,internet_service_Fiber optic ↑; plan_type_Month-to-month ↑; internet_service_No ↑,Service follow-up,1
+CUST-4886,0.597,Medium,tenure_months ↓; total_charges ↑; n_contacts_30d ↑,Service follow-up,0
+CUST-5131,0.594,Medium,tenure_months ↑; charges_per_tenure ↑; plan_type_Month-to-month ↑,Service follow-up,0
+CUST-1846,0.593,Medium,tenure_months ↑; plan_type_Month-to-month ↑; charges_per_tenure ↑,Service follow-up,1
+CUST-6092,0.593,Medium,internet_service_Fiber optic ↑; plan_type_Month-to-month ↑; internet_service_No ↑,Service follow-up,0
+CUST-6173,0.588,Medium,tenure_months ↑; avg_resolution_hours ↑; plan_type_Month-to-month ↑,Service follow-up,0
+CUST-1558,0.587,Medium,tenure_months ↑; internet_service_No ↓; contacts_per_tenure_month ↑,Service follow-up,1
+CUST-1029,0.587,Medium,internet_service_Fiber optic ↑; plan_type_Month-to-month ↑; internet_service_No ↑,Service follow-up,1
+CUST-6431,0.586,Medium,internet_service_Fiber optic ↑; plan_type_Month-to-month ↑; internet_service_No ↑,Service follow-up,0
+CUST-2618,0.585,Medium,avg_resolution_hours ↑; tenure_months ↑; plan_type_Month-to-month ↑,Service follow-up,1
+CUST-2333,0.584,Medium,plan_type_Month-to-month ↓; internet_service_Fiber optic ↑; internet_service_No ↑,Service follow-up,1
+CUST-6422,0.581,Medium,tenure_months ↑; avg_resolution_hours ↑; internet_service_No ↓,Service follow-up,0
+CUST-5637,0.58,Medium,tenure_months ↑; plan_type_Month-to-month ↑; charges_per_tenure ↑,Service follow-up,0
+CUST-2027,0.578,Medium,tenure_months ↑; plan_type_Month-to-month ↑; internet_service_Fiber optic ↓,Service follow-up,1
+CUST-5297,0.578,Medium,internet_service_Fiber optic ↑; plan_type_Month-to-month ↑; internet_service_No ↑,Service follow-up,0
+CUST-1242,0.573,Medium,tenure_months ↑; charges_per_tenure ↑; plan_type_Month-to-month ↑,Service follow-up,1
+CUST-4562,0.572,Medium,internet_service_Fiber optic ↑; plan_type_Month-to-month ↑; internet_service_No ↑,Service follow-up,0
+CUST-1315,0.57,Medium,internet_service_Fiber optic ↑; plan_type_Month-to-month ↑; tenure_months ↑,Service follow-up,1
+CUST-7217,0.567,Medium,tenure_months ↑; plan_type_Month-to-month ↑; avg_resolution_hours ↑,Service follow-up,0
+CUST-4083,0.566,Medium,tenure_months ↓; total_charges ↑; internet_service_Fiber optic ↑,Service follow-up,0
+CUST-3584,0.563,Medium,tenure_months ↑; plan_type_Month-to-month ↑; internet_service_Fiber optic ↓,Service follow-up,0
+CUST-3384,0.562,Medium,tenure_months ↓; internet_service_Fiber optic ↑; plan_type_Month-to-month ↑,Service follow-up,0
+CUST-2850,0.561,Medium,tenure_months ↓; total_charges ↑; reopen_count ↑,Service follow-up,1
+CUST-3343,0.56,Medium,internet_service_Fiber optic ↑; plan_type_Month-to-month ↑; internet_service_No ↑,Service follow-up,0
+CUST-3718,0.557,Medium,tenure_months ↑; plan_type_Month-to-month ↑; charges_per_tenure ↑,Service follow-up,0
+CUST-1502,0.557,Medium,tenure_months ↓; total_charges ↑; internet_service_Fiber optic ↑,Service follow-up,1
+CUST-4671,0.555,Medium,tenure_months ↑; plan_type_Month-to-month ↑; internet_service_Fiber optic ↓,Service follow-up,0
+CUST-7324,0.554,Medium,plan_type_Month-to-month ↑; tenure_months ↑; internet_service_Fiber optic ↓,Service follow-up,0
+CUST-6264,0.553,Medium,total_charges ↑; tenure_months ↓; internet_service_Fiber optic ↑,Service follow-up,0
+CUST-6966,0.551,Medium,tenure_months ↓; total_charges ↑; internet_service_Fiber optic ↑,Service follow-up,0
+CUST-4355,0.551,Medium,tenure_months ↑; plan_type_Month-to-month ↓; internet_service_Fiber optic ↑,Service follow-up,0
+CUST-7493,0.549,Medium,internet_service_Fiber optic ↑; plan_type_Month-to-month ↑; internet_service_No ↑,Service follow-up,0
+CUST-7991,0.547,Medium,tenure_months ↓; reopen_count ↑; plan_type_Month-to-month ↓,Service follow-up,0
+CUST-5700,0.546,Medium,tenure_months ↑; charges_per_tenure ↑; plan_type_Month-to-month ↑,Service follow-up,0
+CUST-2843,0.545,Medium,internet_service_Fiber optic ↑; plan_type_Month-to-month ↑; internet_service_No ↑,Service follow-up,1
+CUST-7169,0.543,Medium,tenure_months ↑; plan_type_Month-to-month ↑; internet_service_Fiber optic ↓,Service follow-up,0
+CUST-5659,0.543,Medium,tenure_months ↓; total_charges ↑; internet_service_Fiber optic ↑,Service follow-up,0
+CUST-4396,0.541,Medium,tenure_months ↓; total_charges ↑; internet_service_Fiber optic ↑,Service follow-up,0
+CUST-5836,0.54,Medium,tenure_months ↑; plan_type_Month-to-month ↑; internet_service_Fiber optic ↓,Service follow-up,0
+CUST-3695,0.54,Medium,tenure_months ↓; total_charges ↑; internet_service_Fiber optic ↑,Service follow-up,0
+CUST-6687,0.539,Medium,tenure_months ↑; plan_type_Month-to-month ↑; csat_score ↑,Service follow-up,0
+CUST-7189,0.538,Medium,tenure_months ↑; charges_per_tenure ↑; plan_type_Month-to-month ↑,Service follow-up,0
+CUST-4092,0.538,Medium,tenure_months ↓; total_charges ↑; reopen_count ↑,Service follow-up,0
+CUST-1371,0.537,Medium,plan_type_Month-to-month ↑; tenure_months ↑; internet_service_Fiber optic ↓,Service follow-up,1
+CUST-4318,0.535,Medium,internet_service_Fiber optic ↑; plan_type_Month-to-month ↑; internet_service_No ↑,Service follow-up,0
+CUST-6266,0.534,Medium,tenure_months ↑; plan_type_Month-to-month ↑; internet_service_Fiber optic ↓,Service follow-up,0
+CUST-6260,0.533,Medium,plan_type_Month-to-month ↓; internet_service_Fiber optic ↑; tenure_months ↑,Service follow-up,0
+CUST-7215,0.532,Medium,tenure_months ↓; reopen_count ↑; plan_type_Month-to-month ↓,Service follow-up,0
+CUST-5898,0.532,Medium,tenure_months ↓; total_charges ↑; avg_resolution_hours ↑,Service follow-up,0
+CUST-7874,0.531,Medium,internet_service_Fiber optic ↑; plan_type_Month-to-month ↑; internet_service_No ↑,Service follow-up,0
+CUST-1656,0.53,Medium,internet_service_Fiber optic ↑; plan_type_Month-to-month ↑; internet_service_No ↑,Service follow-up,1
+CUST-3753,0.53,Medium,tenure_months ↑; plan_type_Month-to-month ↑; internet_service_Fiber optic ↓,Service follow-up,0
+CUST-7699,0.529,Medium,avg_resolution_hours ↑; plan_type_Month-to-month ↓; internet_service_Fiber optic ↓,Service follow-up,0
+CUST-4180,0.528,Medium,tenure_months ↑; charges_per_tenure ↑; plan_type_Month-to-month ↑,Service follow-up,0
+CUST-7142,0.526,Medium,plan_type_Month-to-month ↑; service_friction_score ↑; tenure_months ↑,Service follow-up,0
+CUST-3345,0.522,Medium,tenure_months ↓; total_charges ↑; plan_type_Two year ↓,Service follow-up,0
+CUST-3912,0.52,Medium,tenure_months ↓; total_charges ↑; internet_service_Fiber optic ↑,Service follow-up,0
+CUST-3897,0.52,Medium,internet_service_Fiber optic ↑; plan_type_Month-to-month ↑; internet_service_No ↑,Service follow-up,0
+CUST-2983,0.52,Medium,tenure_months ↑; plan_type_Month-to-month ↑; internet_service_Fiber optic ↓,Service follow-up,0
+CUST-7771,0.519,Medium,internet_service_Fiber optic ↑; plan_type_Month-to-month ↑; internet_service_No ↑,Service follow-up,0
+CUST-1582,0.519,Medium,tenure_months ↓; total_charges ↑; n_contacts_30d ↑,Service follow-up,1
+CUST-1134,0.518,Medium,internet_service_Fiber optic ↑; plan_type_Month-to-month ↑; internet_service_No ↑,Service follow-up,1
+CUST-3666,0.518,Medium,tenure_months ↓; total_charges ↑; internet_service_Fiber optic ↑,Service follow-up,0
+CUST-3101,0.518,Medium,internet_service_Fiber optic ↑; plan_type_Month-to-month ↑; internet_service_No ↑,Service follow-up,0
+CUST-3764,0.516,Medium,tenure_months ↑; plan_type_Month-to-month ↑; internet_service_Fiber optic ↓,Service follow-up,0
+CUST-2101,0.515,Medium,tenure_months ↓; n_repeat_contacts ↑; total_charges ↑,Service follow-up,1
+CUST-1621,0.514,Medium,internet_service_Fiber optic ↑; plan_type_Month-to-month ↑; internet_service_No ↑,Service follow-up,1
+CUST-5304,0.514,Medium,tenure_months ↑; plan_type_Month-to-month ↑; internet_service_Fiber optic ↓,Service follow-up,0
+CUST-6047,0.514,Medium,plan_type_Month-to-month ↑; internet_service_Fiber optic ↓; internet_service_No ↑,Service follow-up,0
+CUST-6860,0.514,Medium,tenure_months ↓; total_charges ↑; plan_type_Month-to-month ↓,Service follow-up,0
+CUST-3841,0.514,Medium,internet_service_No ↓; tenure_months ↑; csat_score ↑,Service follow-up,0
+CUST-3294,0.513,Medium,plan_type_Month-to-month ↓; tenure_months ↑; internet_service_Fiber optic ↑,Service follow-up,0
+CUST-2857,0.511,Medium,tenure_months ↑; plan_type_Month-to-month ↑; avg_resolution_hours ↑,Service follow-up,1
+CUST-7315,0.509,Medium,tenure_months ↑; internet_service_Fiber optic ↑; plan_type_Month-to-month ↑,Service follow-up,0
+CUST-4200,0.509,Medium,internet_service_Fiber optic ↑; plan_type_Month-to-month ↑; internet_service_No ↑,Service follow-up,0
+CUST-5377,0.508,Medium,tenure_months ↓; total_charges ↑; avg_resolution_hours ↑,Service follow-up,0
+CUST-1012,0.507,Medium,internet_service_Fiber optic ↑; plan_type_Month-to-month ↑; internet_service_No ↑,Service follow-up,1
+CUST-1007,0.503,Medium,tenure_months ↑; internet_service_No ↓; plan_type_Month-to-month ↑,Service follow-up,1
+CUST-2908,0.5,Medium,tenure_months ↓; total_charges ↑; plan_type_Month-to-month ↓,Service follow-up,0
+CUST-5410,0.499,Medium,plan_type_Month-to-month ↓; internet_service_Fiber optic ↑; service_friction_score ↑,Service follow-up,0
+CUST-5635,0.499,Medium,tenure_months ↓; total_charges ↑; internet_service_Fiber optic ↑,Service follow-up,0
+CUST-4350,0.498,Medium,avg_resolution_hours ↑; plan_type_Month-to-month ↑; internet_service_Fiber optic ↓,Service follow-up,0
+CUST-7012,0.495,Medium,tenure_months ↑; avg_resolution_hours ↑; plan_type_Month-to-month ↑,Service follow-up,0
+CUST-1577,0.494,Medium,plan_type_Month-to-month ↑; internet_service_Fiber optic ↓; avg_resolution_hours ↓,Service follow-up,1
+CUST-1986,0.493,Medium,tenure_months ↑; plan_type_Month-to-month ↑; total_charges ↓,Service follow-up,1
+CUST-6862,0.493,Medium,plan_type_Month-to-month ↑; tenure_months ↑; internet_service_Fiber optic ↓,Service follow-up,0
+CUST-7756,0.489,Medium,internet_service_No ↓; tenure_months ↑; n_contacts_30d ↑,Service follow-up,0
+CUST-3820,0.488,Medium,charges_per_tenure ↑; tenure_months ↑; plan_type_Month-to-month ↓,Service follow-up,0
+CUST-4956,0.487,Medium,tenure_months ↑; charges_per_tenure ↑; plan_type_Month-to-month ↑,Service follow-up,0
+CUST-1261,0.485,Medium,plan_type_Month-to-month ↑; tenure_months ↑; internet_service_Fiber optic ↓,Service follow-up,1
+CUST-3890,0.485,Medium,tenure_months ↑; open_unresolved_count ↑; plan_type_Month-to-month ↑,Service follow-up,0
+CUST-6667,0.484,Medium,tenure_months ↑; internet_service_No ↓; plan_type_Month-to-month ↑,Service follow-up,0
+CUST-7384,0.484,Medium,tenure_months ↑; plan_type_Month-to-month ↑; total_charges ↓,Service follow-up,0
+CUST-4265,0.482,Medium,tenure_months ↑; plan_type_Month-to-month ↑; internet_service_Fiber optic ↓,Service follow-up,0
+CUST-6064,0.481,Medium,internet_service_Fiber optic ↑; plan_type_Month-to-month ↑; internet_service_No ↑,Service follow-up,0
+CUST-6588,0.48,Medium,internet_service_Fiber optic ↑; plan_type_Month-to-month ↑; internet_service_No ↑,Service follow-up,0
+CUST-7096,0.48,Medium,internet_service_Fiber optic ↑; plan_type_Month-to-month ↑; internet_service_No ↑,Service follow-up,0
+CUST-1609,0.479,Medium,tenure_months ↓; total_charges ↑; plan_type_Month-to-month ↓,Service follow-up,1
+CUST-1674,0.477,Medium,tenure_months ↑; plan_type_Month-to-month ↑; internet_service_Fiber optic ↓,Service follow-up,1
+CUST-3720,0.475,Medium,tenure_months ↑; internet_service_No ↓; plan_type_Month-to-month ↑,Service follow-up,0
+CUST-7255,0.475,Medium,tenure_months ↑; internet_service_Fiber optic ↑; plan_type_Month-to-month ↑,Service follow-up,0
+CUST-6930,0.474,Medium,tenure_months ↑; plan_type_Month-to-month ↑; internet_service_Fiber optic ↓,Service follow-up,0
+CUST-1691,0.473,Medium,internet_service_Fiber optic ↑; plan_type_Month-to-month ↑; avg_resolution_hours ↓,Service follow-up,1
+CUST-7628,0.469,Medium,tenure_months ↓; avg_resolution_hours ↑; plan_type_Month-to-month ↑,Service follow-up,0
+CUST-6210,0.469,Medium,tenure_months ↑; plan_type_Month-to-month ↑; internet_service_Fiber optic ↓,Service follow-up,0
+CUST-2094,0.469,Medium,internet_service_No ↓; tenure_months ↑; plan_type_Month-to-month ↑,Service follow-up,1
+CUST-2732,0.469,Medium,internet_service_Fiber optic ↑; plan_type_Month-to-month ↑; total_charges ↑,Service follow-up,1
+CUST-1431,0.464,Medium,internet_service_Fiber optic ↑; plan_type_Month-to-month ↑; internet_service_No ↑,Service follow-up,1
+CUST-7620,0.464,Medium,internet_service_Fiber optic ↑; plan_type_Month-to-month ↑; tenure_months ↓,Service follow-up,0
+CUST-4918,0.464,Medium,plan_type_Month-to-month ↑; internet_service_Fiber optic ↓; internet_service_No ↑,Service follow-up,0
+CUST-7859,0.462,Medium,plan_type_Month-to-month ↑; internet_service_Fiber optic ↓; internet_service_No ↑,Service follow-up,0
+CUST-5281,0.46,Medium,tenure_months ↓; total_charges ↑; internet_service_Fiber optic ↑,Service follow-up,0
+CUST-4661,0.459,Medium,tenure_months ↓; reopen_count ↑; plan_type_Month-to-month ↑,Service follow-up,0
+CUST-6513,0.459,Medium,tenure_months ↑; plan_type_Month-to-month ↑; internet_service_Fiber optic ↓,Service follow-up,0
+CUST-3682,0.458,Medium,tenure_months ↓; total_charges ↑; plan_type_Month-to-month ↓,Service follow-up,0
+CUST-1581,0.458,Medium,tenure_months ↓; total_charges ↑; plan_type_Month-to-month ↓,Service follow-up,1
+CUST-7746,0.456,Medium,reopen_count ↑; tenure_months ↓; total_charges ↑,Service follow-up,0
+CUST-2001,0.456,Medium,plan_type_Month-to-month ↑; internet_service_Fiber optic ↓; internet_service_No ↑,Service follow-up,1
+CUST-7992,0.456,Medium,tenure_months ↓; plan_type_Month-to-month ↓; total_charges ↑,Service follow-up,0
+CUST-4934,0.456,Medium,tenure_months ↓; total_charges ↑; internet_service_Fiber optic ↑,Service follow-up,0
+CUST-3257,0.456,Medium,tenure_months ↓; total_charges ↑; internet_service_Fiber optic ↑,Service follow-up,0
+CUST-2316,0.454,Medium,tenure_months ↑; plan_type_Month-to-month ↑; internet_service_Fiber optic ↓,Service follow-up,1
+CUST-7845,0.453,Medium,tenure_months ↑; internet_service_No ↓; avg_resolution_hours ↑,Service follow-up,0
+CUST-3196,0.452,Medium,reopen_count ↑; tenure_months ↓; total_charges ↑,Service follow-up,0
+CUST-6071,0.45,Medium,tenure_months ↑; plan_type_Month-to-month ↑; internet_service_Fiber optic ↓,Service follow-up,0
+CUST-7904,0.45,Medium,plan_type_Month-to-month ↑; tenure_months ↑; internet_service_Fiber optic ↓,Service follow-up,0
+CUST-1303,0.45,Medium,tenure_months ↓; total_charges ↑; plan_type_Month-to-month ↓,Service follow-up,1
+CUST-4919,0.449,Medium,tenure_months ↑; plan_type_Month-to-month ↑; internet_service_Fiber optic ↓,Service follow-up,0
+CUST-7909,0.449,Medium,tenure_months ↓; plan_type_Month-to-month ↑; internet_service_Fiber optic ↓,Service follow-up,0
+CUST-6059,0.448,Medium,tenure_months ↑; internet_service_No ↓; plan_type_Month-to-month ↑,Service follow-up,0
+CUST-4304,0.447,Medium,tenure_months ↑; plan_type_Month-to-month ↑; charges_per_tenure ↑,Service follow-up,0
+CUST-6605,0.446,Medium,plan_type_Month-to-month ↑; internet_service_Fiber optic ↓; internet_service_No ↑,Service follow-up,0
+CUST-3274,0.445,Medium,tenure_months ↑; internet_service_No ↓; contacts_per_tenure_month ↑,Service follow-up,0
+CUST-5514,0.444,Medium,internet_service_Fiber optic ↑; plan_type_Month-to-month ↑; internet_service_No ↑,Service follow-up,0
+CUST-5718,0.442,Medium,tenure_months ↓; plan_type_Month-to-month ↓; total_charges ↑,Service follow-up,0
+CUST-6589,0.442,Medium,internet_service_Fiber optic ↑; plan_type_Month-to-month ↑; internet_service_No ↑,Service follow-up,0
+CUST-7460,0.44,Medium,tenure_months ↓; total_charges ↑; internet_service_Fiber optic ↑,Service follow-up,0
+CUST-2240,0.437,Medium,plan_type_Month-to-month ↑; internet_service_Fiber optic ↓; internet_service_No ↑,Service follow-up,1
+CUST-7076,0.436,Medium,tenure_months ↓; total_charges ↑; internet_service_Fiber optic ↑,Service follow-up,0
+CUST-7783,0.435,Medium,plan_type_Month-to-month ↓; avg_resolution_hours ↑; tenure_months ↓,Service follow-up,0
+CUST-5251,0.432,Medium,tenure_months ↑; plan_type_Month-to-month ↑; total_charges ↓,Service follow-up,0
+CUST-1605,0.432,Medium,tenure_months ↑; plan_type_Month-to-month ↑; internet_service_Fiber optic ↓,Service follow-up,1
+CUST-6101,0.431,Medium,internet_service_Fiber optic ↑; plan_type_Month-to-month ↑; internet_service_No ↑,Service follow-up,0
+CUST-1211,0.431,Medium,tenure_months ↓; total_charges ↑; plan_type_Month-to-month ↓,Service follow-up,1
+CUST-7779,0.427,Medium,tenure_months ↑; plan_type_Month-to-month ↑; internet_service_Fiber optic ↓,Service follow-up,0
+CUST-4515,0.425,Medium,plan_type_Month-to-month ↓; avg_resolution_hours ↑; tenure_months ↓,Service follow-up,0
+CUST-1657,0.425,Medium,tenure_months ↑; internet_service_No ↓; plan_type_Month-to-month ↑,Service follow-up,1
+CUST-1825,0.424,Medium,tenure_months ↑; internet_service_No ↓; reopen_count ↑,Service follow-up,1
+CUST-1525,0.423,Medium,internet_service_Fiber optic ↑; plan_type_Month-to-month ↑; internet_service_No ↑,Service follow-up,1
+CUST-4845,0.422,Medium,internet_service_No ↓; tenure_months ↑; plan_type_Month-to-month ↑,Service follow-up,0
+CUST-2639,0.42,Medium,reopen_count ↑; plan_type_Month-to-month ↓; service_friction_score ↑,Service follow-up,1
+CUST-1181,0.415,Medium,internet_service_Fiber optic ↑; plan_type_Month-to-month ↑; internet_service_No ↑,Service follow-up,1
+CUST-5324,0.414,Medium,plan_type_Month-to-month ↑; tenure_months ↑; internet_service_Fiber optic ↓,Service follow-up,0
+CUST-7039,0.414,Medium,plan_type_Month-to-month ↓; internet_service_Fiber optic ↑; open_unresolved_count ↑,Service follow-up,0
+CUST-2625,0.413,Medium,internet_service_No ↓; tenure_months ↑; avg_resolution_hours ↑,Service follow-up,1
+CUST-4665,0.411,Medium,avg_resolution_hours ↑; plan_type_Month-to-month ↑; tenure_months ↑,Service follow-up,0
+CUST-1220,0.409,Medium,tenure_months ↓; plan_type_Month-to-month ↓; total_charges ↑,Service follow-up,1
+CUST-4005,0.409,Medium,tenure_months ↓; total_charges ↑; internet_service_Fiber optic ↑,Service follow-up,0
+CUST-5255,0.408,Medium,tenure_months ↓; total_charges ↑; plan_type_Month-to-month ↓,Service follow-up,0
+CUST-6005,0.408,Medium,tenure_months ↑; plan_type_Month-to-month ↓; internet_service_Fiber optic ↓,Service follow-up,0
+CUST-2086,0.408,Medium,tenure_months ↑; plan_type_Month-to-month ↑; internet_service_Fiber optic ↓,Service follow-up,1
+CUST-4193,0.408,Medium,plan_type_Month-to-month ↑; tenure_months ↓; internet_service_Fiber optic ↓,Service follow-up,0
+CUST-7725,0.406,Medium,tenure_months ↑; plan_type_Month-to-month ↑; internet_service_Fiber optic ↓,Service follow-up,0
+CUST-7420,0.405,Medium,tenure_months ↓; total_charges ↑; plan_type_Month-to-month ↓,Service follow-up,0
+CUST-6926,0.405,Medium,n_repeat_contacts ↑; plan_type_Month-to-month ↓; repeat_contact_rate ↑,Service follow-up,0
+CUST-3842,0.402,Medium,tenure_months ↑; plan_type_Month-to-month ↑; internet_service_Fiber optic ↓,Service follow-up,0
+CUST-1949,0.402,Medium,internet_service_No ↓; tenure_months ↑; plan_type_Month-to-month ↑,Service follow-up,1
+CUST-4353,0.4,Medium,plan_type_Two year ↓; tenure_months ↓; total_charges ↑,Service follow-up,0
+CUST-2218,0.399,Medium,tenure_months ↑; internet_service_No ↓; plan_type_Month-to-month ↑,Service follow-up,1
+CUST-1757,0.399,Medium,reopen_count ↑; plan_type_Month-to-month ↓; tenure_months ↓,Service follow-up,1
+CUST-3058,0.398,Medium,plan_type_Month-to-month ↓; internet_service_Fiber optic ↑; total_charges ↑,Service follow-up,0
+CUST-3640,0.398,Medium,tenure_months ↓; plan_type_Month-to-month ↓; total_charges ↑,Service follow-up,0
+CUST-2557,0.395,Medium,tenure_months ↑; plan_type_Month-to-month ↓; internet_service_Fiber optic ↓,Service follow-up,1
+CUST-2624,0.395,Medium,internet_service_No ↓; tenure_months ↑; plan_type_Month-to-month ↑,Service follow-up,1
+CUST-5780,0.395,Medium,plan_type_Month-to-month ↑; internet_service_Fiber optic ↓; internet_service_No ↑,Service follow-up,0
+CUST-5104,0.394,Medium,tenure_months ↑; internet_service_No ↓; plan_type_Month-to-month ↑,Service follow-up,0
+CUST-7097,0.393,Medium,tenure_months ↓; total_charges ↑; plan_type_Month-to-month ↓,Service follow-up,0
+CUST-1170,0.391,Medium,tenure_months ↓; plan_type_Month-to-month ↑; internet_service_Fiber optic ↓,Service follow-up,1
+CUST-1709,0.391,Medium,plan_type_Month-to-month ↓; internet_service_Fiber optic ↑; internet_service_No ↑,Service follow-up,1
+CUST-3507,0.39,Medium,tenure_months ↑; internet_service_No ↓; plan_type_Month-to-month ↑,Service follow-up,0
+CUST-3270,0.39,Medium,tenure_months ↓; total_charges ↑; plan_type_Month-to-month ↓,Service follow-up,0
+CUST-2307,0.389,Medium,tenure_months ↓; total_charges ↑; plan_type_Month-to-month ↓,Service follow-up,1
+CUST-2791,0.386,Medium,tenure_months ↑; plan_type_Month-to-month ↑; internet_service_Fiber optic ↓,Service follow-up,1
+CUST-6228,0.385,Medium,internet_service_No ↓; tenure_months ↑; plan_type_Month-to-month ↑,Service follow-up,0
+CUST-6153,0.385,Medium,tenure_months ↑; charges_per_tenure ↑; plan_type_Month-to-month ↑,Service follow-up,0
+CUST-3573,0.38,Medium,internet_service_Fiber optic ↑; plan_type_Month-to-month ↑; internet_service_No ↑,Service follow-up,0
+CUST-4851,0.38,Medium,tenure_months ↓; total_charges ↑; plan_type_Month-to-month ↓,Service follow-up,0
+CUST-1837,0.38,Medium,plan_type_Month-to-month ↓; internet_service_Fiber optic ↓; internet_service_No ↑,Service follow-up,1
+CUST-5354,0.38,Medium,plan_type_Month-to-month ↓; tenure_months ↓; total_charges ↑,Service follow-up,0
+CUST-6564,0.38,Medium,internet_service_No ↓; tenure_months ↑; plan_type_Month-to-month ↑,Service follow-up,0
+CUST-7583,0.378,Medium,plan_type_Month-to-month ↓; tenure_months ↑; internet_service_Fiber optic ↓,Service follow-up,0
+CUST-3140,0.376,Medium,plan_type_Month-to-month ↑; internet_service_Fiber optic ↓; internet_service_No ↑,Service follow-up,0
+CUST-7954,0.373,Medium,tenure_months ↓; total_charges ↑; internet_service_Fiber optic ↑,Service follow-up,0
+CUST-2872,0.372,Medium,internet_service_Fiber optic ↑; plan_type_Month-to-month ↑; internet_service_No ↑,Service follow-up,0
+CUST-2362,0.372,Medium,plan_type_Month-to-month ↑; internet_service_Fiber optic ↓; internet_service_No ↑,Service follow-up,1
+CUST-5510,0.371,Medium,tenure_months ↑; internet_service_No ↓; open_unresolved_count ↑,Service follow-up,0
+CUST-2817,0.369,Medium,tenure_months ↑; plan_type_Month-to-month ↑; total_charges ↓,Service follow-up,1
+CUST-5819,0.368,Medium,n_contacts_30d ↑; tenure_months ↓; plan_type_Month-to-month ↓,Service follow-up,0
+CUST-3990,0.364,Medium,avg_resolution_hours ↑; plan_type_Month-to-month ↓; internet_service_Fiber optic ↓,Service follow-up,0
+CUST-6289,0.363,Medium,plan_type_Month-to-month ↑; internet_service_Fiber optic ↓; internet_service_No ↑,Service follow-up,0
+CUST-2620,0.361,Medium,plan_type_Month-to-month ↑; tenure_months ↓; internet_service_Fiber optic ↓,Service follow-up,1
+CUST-6975,0.36,Medium,tenure_months ↓; plan_type_Month-to-month ↓; total_charges ↑,Service follow-up,0
+CUST-2235,0.36,Medium,tenure_months ↑; internet_service_No ↓; plan_type_Month-to-month ↑,Service follow-up,1
+CUST-2015,0.358,Medium,plan_type_Month-to-month ↓; internet_service_Fiber optic ↓; internet_service_No ↑,Service follow-up,1
+CUST-6544,0.357,Medium,plan_type_Month-to-month ↑; tenure_months ↓; internet_service_Fiber optic ↓,Service follow-up,0
+CUST-3324,0.357,Medium,plan_type_Two year ↓; plan_type_Month-to-month ↓; total_charges ↑,Service follow-up,0
+CUST-3075,0.356,Medium,plan_type_Month-to-month ↑; internet_service_Fiber optic ↓; internet_service_No ↑,Service follow-up,0
+CUST-2116,0.352,Medium,internet_service_No ↓; tenure_months ↑; open_unresolved_count ↑,Service follow-up,1
+CUST-5660,0.352,Medium,avg_resolution_hours ↑; internet_service_No ↓; tenure_months ↑,Service follow-up,0
+CUST-6214,0.351,Medium,plan_type_Month-to-month ↑; tenure_months ↑; internet_service_Fiber optic ↓,Service follow-up,0
+CUST-1883,0.349,Medium,internet_service_No ↓; tenure_months ↑; plan_type_Month-to-month ↑,Service follow-up,1
+CUST-5501,0.347,Medium,internet_service_Fiber optic ↑; plan_type_Month-to-month ↑; internet_service_No ↑,Service follow-up,0
+CUST-7210,0.347,Medium,tenure_months ↑; plan_type_Month-to-month ↑; internet_service_Fiber optic ↓,Service follow-up,0
+CUST-2792,0.346,Medium,tenure_months ↑; internet_service_No ↓; plan_type_Month-to-month ↑,Service follow-up,1
+CUST-2173,0.345,Medium,tenure_months ↑; internet_service_No ↓; plan_type_Month-to-month ↑,Service follow-up,1
+CUST-6337,0.344,Medium,tenure_months ↑; plan_type_Month-to-month ↑; charges_per_tenure ↑,Service follow-up,0
+CUST-3938,0.343,Medium,avg_resolution_hours ↑; plan_type_Month-to-month ↑; tenure_months ↑,Service follow-up,0
+CUST-2690,0.343,Medium,plan_type_Month-to-month ↓; internet_service_Fiber optic ↑; total_charges ↑,Service follow-up,1
+CUST-4143,0.343,Medium,plan_type_Month-to-month ↑; internet_service_Fiber optic ↓; internet_service_No ↑,Service follow-up,0
+CUST-6052,0.342,Medium,internet_service_No ↓; tenure_months ↑; plan_type_Month-to-month ↓,Service follow-up,0
+CUST-7178,0.342,Medium,tenure_months ↑; plan_type_Month-to-month ↑; internet_service_Fiber optic ↓,Service follow-up,0
+CUST-1331,0.341,Medium,plan_type_Month-to-month ↓; tenure_months ↓; total_charges ↑,Service follow-up,1
+CUST-3059,0.34,Medium,tenure_months ↓; plan_type_Month-to-month ↓; total_charges ↑,Service follow-up,0
+CUST-6959,0.337,Medium,internet_service_No ↓; open_unresolved_count ↑; reopen_count ↑,Service follow-up,0
+CUST-1778,0.337,Medium,tenure_months ↑; plan_type_Month-to-month ↑; internet_service_Fiber optic ↓,Service follow-up,1
+CUST-3572,0.336,Medium,tenure_months ↑; plan_type_Month-to-month ↑; internet_service_Fiber optic ↓,Service follow-up,0
+CUST-6223,0.336,Medium,internet_service_No ↓; tenure_months ↑; plan_type_Month-to-month ↑,Service follow-up,0
+CUST-5425,0.334,Medium,tenure_months ↓; plan_type_Month-to-month ↑; internet_service_Fiber optic ↓,Service follow-up,0
+CUST-6093,0.334,Medium,plan_type_Month-to-month ↓; service_friction_score ↑; internet_service_Fiber optic ↓,Service follow-up,0
+CUST-4855,0.334,Medium,tenure_months ↑; plan_type_Month-to-month ↓; internet_service_Fiber optic ↓,Service follow-up,0
+CUST-2532,0.334,Medium,tenure_months ↑; internet_service_No ↓; plan_type_Month-to-month ↑,Service follow-up,1
+CUST-7123,0.334,Medium,tenure_months ↑; internet_service_No ↓; plan_type_Month-to-month ↑,Service follow-up,0
+CUST-7974,0.331,Medium,unresolved_burden ↑; tenure_months ↓; open_unresolved_count ↑,Service follow-up,0
+CUST-6752,0.331,Medium,plan_type_Two year ↓; tenure_months ↓; total_charges ↑,Service follow-up,0
+CUST-4035,0.33,Medium,tenure_months ↑; plan_type_Month-to-month ↑; internet_service_Fiber optic ↓,Service follow-up,0
+CUST-2873,0.328,Medium,tenure_months ↑; plan_type_Month-to-month ↑; internet_service_Fiber optic ↓,Service follow-up,0
+CUST-4673,0.327,Medium,tenure_months ↑; plan_type_Month-to-month ↑; internet_service_Fiber optic ↓,Service follow-up,0
+CUST-6719,0.326,Medium,tenure_months ↑; internet_service_No ↓; charges_per_tenure ↑,Service follow-up,0
+CUST-5973,0.325,Medium,tenure_months ↓; total_charges ↑; plan_type_Two year ↓,Service follow-up,0
+CUST-3248,0.324,Medium,plan_type_Month-to-month ↓; internet_service_Fiber optic ↑; internet_service_No ↑,Service follow-up,0
+CUST-3443,0.321,Medium,tenure_months ↑; internet_service_No ↓; plan_type_Month-to-month ↑,Service follow-up,0
+CUST-5254,0.319,Medium,tenure_months ↑; plan_type_Month-to-month ↑; internet_service_Fiber optic ↓,Service follow-up,0
+CUST-1794,0.319,Medium,n_contacts_30d ↑; tenure_months ↓; plan_type_Month-to-month ↑,Service follow-up,1
+CUST-7362,0.317,Medium,plan_type_Month-to-month ↑; tenure_months ↑; internet_service_Fiber optic ↓,Service follow-up,0
+CUST-2260,0.317,Medium,plan_type_Month-to-month ↓; internet_service_Fiber optic ↑; internet_service_No ↑,Service follow-up,1
+CUST-3929,0.317,Medium,tenure_months ↓; total_charges ↑; plan_type_Month-to-month ↓,Service follow-up,0
+CUST-3884,0.317,Medium,tenure_months ↓; total_charges ↑; plan_type_Month-to-month ↓,Service follow-up,0
+CUST-7973,0.316,Medium,internet_service_No ↓; tenure_months ↑; plan_type_Month-to-month ↑,Service follow-up,0
+CUST-4183,0.316,Medium,plan_type_Month-to-month ↑; internet_service_Fiber optic ↓; internet_service_No ↑,Service follow-up,0
+CUST-6286,0.315,Medium,tenure_months ↓; total_charges ↑; plan_type_Month-to-month ↓,Service follow-up,0
+CUST-7239,0.315,Medium,plan_type_Month-to-month ↑; tenure_months ↑; internet_service_Fiber optic ↓,Service follow-up,0
+CUST-5437,0.315,Medium,tenure_months ↓; total_charges ↑; plan_type_Month-to-month ↓,Service follow-up,0
+CUST-4920,0.314,Medium,internet_service_No ↓; tenure_months ↑; plan_type_Month-to-month ↑,Service follow-up,0
+CUST-7205,0.312,Medium,plan_type_Month-to-month ↑; internet_service_Fiber optic ↓; internet_service_No ↑,Service follow-up,0
+CUST-2676,0.31,Medium,internet_service_Fiber optic ↑; plan_type_Month-to-month ↑; internet_service_No ↑,Service follow-up,1
+CUST-1969,0.31,Medium,tenure_months ↓; plan_type_Two year ↓; total_charges ↑,Service follow-up,1
+CUST-4584,0.309,Medium,tenure_months ↓; total_charges ↑; plan_type_Month-to-month ↓,Service follow-up,0
+CUST-5588,0.308,Medium,internet_service_Fiber optic ↑; plan_type_Month-to-month ↑; tenure_months ↓,Service follow-up,0
+CUST-3701,0.304,Medium,plan_type_Month-to-month ↓; internet_service_Fiber optic ↓; internet_service_No ↑,Service follow-up,0
+CUST-6256,0.303,Medium,internet_service_No ↓; tenure_months ↑; plan_type_Month-to-month ↑,Service follow-up,0
+CUST-7467,0.303,Medium,tenure_months ↑; internet_service_No ↓; plan_type_Month-to-month ↑,Service follow-up,0
+CUST-5977,0.298,Low,tenure_months ↓; n_contacts_30d ↑; plan_type_Month-to-month ↓,No action,0
+CUST-6843,0.298,Low,tenure_months ↓; internet_service_Fiber optic ↑; plan_type_Month-to-month ↑,No action,0
+CUST-6415,0.297,Low,plan_type_Month-to-month ↑; internet_service_Fiber optic ↓; internet_service_No ↑,No action,0
+CUST-6070,0.297,Low,plan_type_Month-to-month ↓; internet_service_Fiber optic ↓; internet_service_No ↑,No action,0
+CUST-7532,0.296,Low,tenure_months ↓; total_charges ↑; plan_type_Month-to-month ↓,No action,0
+CUST-3118,0.296,Low,tenure_months ↓; n_repeat_contacts ↑; plan_type_Two year ↓,No action,0
+CUST-5318,0.296,Low,tenure_months ↑; internet_service_No ↓; open_unresolved_count ↑,No action,0
+CUST-7592,0.295,Low,tenure_months ↓; total_charges ↑; internet_service_Fiber optic ↑,No action,0
+CUST-3535,0.294,Low,tenure_months ↓; plan_type_Month-to-month ↓; total_charges ↑,No action,0
+CUST-4869,0.294,Low,plan_type_Month-to-month ↑; tenure_months ↓; internet_service_Fiber optic ↓,No action,0
+CUST-6488,0.292,Low,plan_type_Month-to-month ↑; internet_service_Fiber optic ↓; internet_service_No ↑,No action,0
+CUST-6505,0.291,Low,tenure_months ↓; plan_type_Month-to-month ↑; internet_service_Fiber optic ↓,No action,0
+CUST-5613,0.29,Low,internet_service_No ↓; n_repeat_contacts ↑; escalation_count ↑,No action,0
+CUST-3186,0.289,Low,tenure_months ↓; plan_type_Month-to-month ↑; internet_service_Fiber optic ↓,No action,0
+CUST-4278,0.289,Low,internet_service_No ↓; tenure_months ↑; plan_type_Month-to-month ↓,No action,0
+CUST-7258,0.289,Low,n_contacts_30d ↑; plan_type_Month-to-month ↓; service_friction_score ↑,No action,0
+CUST-6433,0.288,Low,tenure_months ↑; plan_type_Month-to-month ↑; internet_service_Fiber optic ↓,No action,0
+CUST-6632,0.286,Low,plan_type_Month-to-month ↓; internet_service_Fiber optic ↑; internet_service_No ↑,No action,0
+CUST-6179,0.284,Low,tenure_months ↓; total_charges ↑; internet_service_Fiber optic ↑,No action,0
+CUST-5302,0.284,Low,plan_type_Month-to-month ↑; internet_service_Fiber optic ↓; internet_service_No ↑,No action,0
+CUST-7877,0.284,Low,tenure_months ↓; total_charges ↑; plan_type_Month-to-month ↓,No action,0
+CUST-5382,0.282,Low,plan_type_Month-to-month ↓; internet_service_Fiber optic ↓; internet_service_No ↑,No action,0
+CUST-6026,0.281,Low,tenure_months ↓; plan_type_Month-to-month ↑; internet_service_Fiber optic ↓,No action,0
+CUST-6856,0.28,Low,tenure_months ↓; plan_type_Two year ↓; total_charges ↑,No action,0
+CUST-7118,0.278,Low,open_unresolved_count ↑; plan_type_Month-to-month ↑; internet_service_Fiber optic ↓,No action,0
+CUST-7767,0.277,Low,plan_type_Month-to-month ↓; internet_service_Fiber optic ↑; total_charges ↑,No action,0
+CUST-3055,0.275,Low,tenure_months ↑; plan_type_Month-to-month ↑; internet_service_Fiber optic ↓,No action,0
+CUST-6136,0.274,Low,plan_type_Month-to-month ↑; internet_service_Fiber optic ↓; avg_resolution_hours ↓,No action,0
+CUST-3909,0.274,Low,tenure_months ↓; total_charges ↑; plan_type_Month-to-month ↓,No action,0
+CUST-4697,0.273,Low,internet_service_No ↓; tenure_months ↑; plan_type_Month-to-month ↑,No action,0
+CUST-4654,0.272,Low,plan_type_Two year ↓; tenure_months ↑; plan_type_Month-to-month ↓,No action,0
+CUST-3260,0.271,Low,tenure_months ↓; total_charges ↑; plan_type_Month-to-month ↓,No action,0
+CUST-5420,0.27,Low,plan_type_Month-to-month ↑; internet_service_Fiber optic ↓; internet_service_No ↑,No action,0
+CUST-2689,0.269,Low,tenure_months ↑; internet_service_No ↓; plan_type_Month-to-month ↑,No action,1
+CUST-5067,0.268,Low,internet_service_No ↓; n_contacts_30d ↑; plan_type_Month-to-month ↑,No action,0
+CUST-6776,0.268,Low,plan_type_Month-to-month ↓; internet_service_Fiber optic ↑; internet_service_No ↑,No action,0
+CUST-6021,0.267,Low,tenure_months ↑; internet_service_No ↓; plan_type_Month-to-month ↑,No action,0
+CUST-4974,0.265,Low,internet_service_No ↓; avg_resolution_hours ↑; tenure_months ↑,No action,0
+CUST-6171,0.265,Low,internet_service_No ↓; tenure_months ↑; plan_type_Month-to-month ↑,No action,0
+CUST-7789,0.263,Low,plan_type_Two year ↓; plan_type_Month-to-month ↓; internet_service_Fiber optic ↑,No action,0
+CUST-6441,0.262,Low,tenure_months ↓; total_charges ↑; plan_type_Month-to-month ↓,No action,0
+CUST-5005,0.261,Low,tenure_months ↑; internet_service_No ↓; plan_type_Month-to-month ↑,No action,0
+CUST-5961,0.26,Low,internet_service_No ↓; tenure_months ↑; plan_type_Month-to-month ↑,No action,0
+CUST-4258,0.259,Low,plan_type_Month-to-month ↑; internet_service_Fiber optic ↓; internet_service_No ↑,No action,0
+CUST-2783,0.259,Low,escalation_count ↑; tenure_months ↓; plan_type_Month-to-month ↓,No action,1
+CUST-7015,0.259,Low,plan_type_Month-to-month ↑; internet_service_Fiber optic ↓; internet_service_No ↑,No action,0
+CUST-4218,0.258,Low,plan_type_Month-to-month ↑; internet_service_Fiber optic ↓; internet_service_No ↑,No action,0
+CUST-4896,0.256,Low,tenure_months ↓; plan_type_Two year ↓; total_charges ↑,No action,0
+CUST-5614,0.253,Low,plan_type_Month-to-month ↑; tenure_months ↓; internet_service_Fiber optic ↓,No action,0
+CUST-5140,0.253,Low,tenure_months ↓; total_charges ↑; plan_type_Month-to-month ↓,No action,0
+CUST-2454,0.253,Low,tenure_months ↑; plan_type_Month-to-month ↑; internet_service_Fiber optic ↓,No action,1
+CUST-3336,0.252,Low,tenure_months ↓; total_charges ↑; internet_service_Fiber optic ↑,No action,0
+CUST-4630,0.252,Low,plan_type_Month-to-month ↑; internet_service_Fiber optic ↓; internet_service_No ↑,No action,0
+CUST-4978,0.251,Low,tenure_months ↓; plan_type_Month-to-month ↓; total_charges ↑,No action,0
+CUST-3950,0.251,Low,reopen_count ↑; plan_type_Month-to-month ↓; internet_service_Fiber optic ↓,No action,0
+CUST-3323,0.25,Low,tenure_months ↓; plan_type_Month-to-month ↓; total_charges ↑,No action,0
+CUST-7033,0.248,Low,internet_service_No ↓; tenure_months ↑; plan_type_Month-to-month ↑,No action,0
+CUST-5544,0.247,Low,tenure_months ↓; total_charges ↑; internet_service_Fiber optic ↑,No action,0
+CUST-1528,0.245,Low,tenure_months ↓; plan_type_Month-to-month ↓; total_charges ↑,No action,1
+CUST-7667,0.245,Low,n_contacts_30d ↑; plan_type_Month-to-month ↑; tenure_months ↓,No action,0
+CUST-1325,0.245,Low,internet_service_No ↓; tenure_months ↑; plan_type_Month-to-month ↑,No action,1
+CUST-6141,0.243,Low,plan_type_Month-to-month ↑; internet_service_Fiber optic ↓; internet_service_No ↑,No action,0
+CUST-4565,0.242,Low,tenure_months ↓; total_charges ↑; plan_type_Month-to-month ↓,No action,0
+CUST-7402,0.241,Low,tenure_months ↑; internet_service_No ↓; plan_type_Month-to-month ↓,No action,0
+CUST-6263,0.24,Low,plan_type_Two year ↓; total_charges ↑; tenure_months ↓,No action,0
+CUST-3653,0.238,Low,plan_type_Month-to-month ↑; internet_service_Fiber optic ↓; internet_service_No ↑,No action,0
+CUST-6318,0.238,Low,tenure_months ↓; plan_type_Month-to-month ↑; internet_service_Fiber optic ↓,No action,0
+CUST-7080,0.234,Low,plan_type_Month-to-month ↑; internet_service_Fiber optic ↓; internet_service_No ↑,No action,0
+CUST-5956,0.233,Low,plan_type_Two year ↓; tenure_months ↓; total_charges ↑,No action,0
+CUST-2967,0.231,Low,tenure_months ↑; internet_service_No ↓; plan_type_Month-to-month ↑,No action,0
+CUST-4717,0.23,Low,plan_type_Month-to-month ↓; tenure_months ↓; internet_service_Fiber optic ↓,No action,0
+CUST-7403,0.23,Low,plan_type_Month-to-month ↓; internet_service_Fiber optic ↓; internet_service_No ↑,No action,0
+CUST-7021,0.229,Low,tenure_months ↓; plan_type_Month-to-month ↑; internet_service_Fiber optic ↓,No action,0
+CUST-4925,0.228,Low,plan_type_Two year ↓; plan_type_Month-to-month ↓; internet_service_Fiber optic ↑,No action,0
+CUST-3786,0.228,Low,plan_type_Month-to-month ↑; internet_service_Fiber optic ↓; internet_service_No ↑,No action,0
+CUST-3826,0.227,Low,tenure_months ↓; plan_type_Two year ↓; total_charges ↑,No action,0
+CUST-2073,0.227,Low,plan_type_Month-to-month ↓; open_unresolved_count ↑; internet_service_Fiber optic ↓,No action,1
+CUST-1615,0.226,Low,tenure_months ↓; total_charges ↑; plan_type_Month-to-month ↓,No action,1
+CUST-4472,0.226,Low,internet_service_No ↓; tenure_months ↑; plan_type_Month-to-month ↓,No action,0
+CUST-6600,0.226,Low,plan_type_Month-to-month ↑; internet_service_Fiber optic ↓; internet_service_No ↑,No action,0
+CUST-2553,0.224,Low,tenure_months ↓; total_charges ↑; plan_type_Month-to-month ↓,No action,1
+CUST-5897,0.223,Low,plan_type_Month-to-month ↓; internet_service_Fiber optic ↓; internet_service_No ↑,No action,0
+CUST-3991,0.223,Low,tenure_months ↑; plan_type_Month-to-month ↑; internet_service_Fiber optic ↓,No action,0
+CUST-6288,0.223,Low,internet_service_No ↓; tenure_months ↑; plan_type_Month-to-month ↑,No action,0
+CUST-5851,0.223,Low,tenure_months ↓; plan_type_Month-to-month ↑; internet_service_Fiber optic ↓,No action,0
+CUST-2976,0.22,Low,plan_type_Two year ↓; tenure_months ↓; total_charges ↑,No action,0
+CUST-3310,0.219,Low,tenure_months ↓; plan_type_Two year ↓; total_charges ↑,No action,0
+CUST-3069,0.219,Low,plan_type_Two year ↓; tenure_months ↓; total_charges ↑,No action,0
+CUST-1143,0.219,Low,internet_service_No ↓; tenure_months ↑; plan_type_Month-to-month ↑,No action,1
+CUST-5485,0.217,Low,tenure_months ↓; plan_type_Month-to-month ↑; internet_service_Fiber optic ↓,No action,0
+CUST-3699,0.214,Low,plan_type_Month-to-month ↓; internet_service_Fiber optic ↓; internet_service_No ↑,No action,0
+CUST-3843,0.214,Low,plan_type_Month-to-month ↓; internet_service_Fiber optic ↑; internet_service_No ↑,No action,0
+CUST-7961,0.209,Low,plan_type_Month-to-month ↓; tenure_months ↓; avg_resolution_hours ↑,No action,0
+CUST-7897,0.209,Low,tenure_months ↓; total_charges ↑; plan_type_Month-to-month ↓,No action,0
+CUST-5631,0.208,Low,plan_type_Month-to-month ↓; internet_service_Fiber optic ↑; internet_service_No ↑,No action,0
+CUST-6135,0.207,Low,plan_type_Month-to-month ↓; internet_service_Fiber optic ↑; internet_service_No ↑,No action,0
+CUST-5422,0.207,Low,tenure_months ↑; internet_service_No ↓; plan_type_Month-to-month ↑,No action,0
+CUST-3649,0.205,Low,reopen_count ↑; plan_type_Month-to-month ↓; internet_service_Fiber optic ↓,No action,0
+CUST-5600,0.205,Low,tenure_months ↓; total_charges ↑; plan_type_Month-to-month ↓,No action,0
+CUST-7862,0.203,Low,plan_type_Two year ↓; plan_type_Month-to-month ↓; n_contacts_30d ↑,No action,0
+CUST-6692,0.203,Low,avg_resolution_hours ↑; tenure_months ↓; plan_type_Two year ↓,No action,0
+CUST-3084,0.203,Low,plan_type_Month-to-month ↓; internet_service_Fiber optic ↓; internet_service_No ↑,No action,0
+CUST-3638,0.2,Low,tenure_months ↓; plan_type_Two year ↓; total_charges ↑,No action,0
+CUST-7390,0.2,Low,internet_service_No ↓; tenure_months ↑; plan_type_Month-to-month ↑,No action,0
+CUST-4838,0.198,Low,tenure_months ↓; total_charges ↑; plan_type_Month-to-month ↓,No action,0
+CUST-5580,0.197,Low,plan_type_Month-to-month ↓; internet_service_Fiber optic ↓; internet_service_No ↑,No action,0
+CUST-6902,0.194,Low,tenure_months ↓; plan_type_Two year ↓; total_charges ↑,No action,0
+CUST-4256,0.192,Low,internet_service_No ↓; tenure_months ↑; plan_type_Month-to-month ↑,No action,0
+CUST-2555,0.192,Low,plan_type_Month-to-month ↓; tenure_months ↓; internet_service_Fiber optic ↓,No action,1
+CUST-6984,0.191,Low,plan_type_Month-to-month ↓; tenure_months ↓; internet_service_Fiber optic ↑,No action,0
+CUST-4014,0.191,Low,plan_type_Two year ↓; plan_type_Month-to-month ↓; service_friction_score ↑,No action,0
+CUST-3989,0.19,Low,internet_service_No ↓; tenure_months ↑; plan_type_Month-to-month ↑,No action,0
+CUST-6914,0.189,Low,n_repeat_contacts ↑; internet_service_No ↓; plan_type_Month-to-month ↓,No action,0
+CUST-5083,0.187,Low,tenure_months ↑; internet_service_No ↓; plan_type_Month-to-month ↓,No action,0
+CUST-4151,0.187,Low,tenure_months ↓; total_charges ↑; plan_type_Month-to-month ↓,No action,0
+CUST-5359,0.187,Low,tenure_months ↑; internet_service_No ↓; plan_type_Month-to-month ↑,No action,0
+CUST-5608,0.186,Low,plan_type_Month-to-month ↓; tenure_months ↓; internet_service_Fiber optic ↓,No action,0
+CUST-3951,0.184,Low,tenure_months ↓; total_charges ↑; plan_type_Month-to-month ↓,No action,0
+CUST-7416,0.182,Low,tenure_months ↓; total_charges ↑; plan_type_Month-to-month ↓,No action,0
+CUST-3335,0.182,Low,tenure_months ↓; total_charges ↑; plan_type_Month-to-month ↓,No action,0
+CUST-7144,0.182,Low,tenure_months ↓; plan_type_Two year ↓; total_charges ↑,No action,0
+CUST-6356,0.179,Low,tenure_months ↓; plan_type_Month-to-month ↓; open_unresolved_count ↑,No action,0
+CUST-6049,0.179,Low,plan_type_Two year ↓; plan_type_Month-to-month ↓; internet_service_Fiber optic ↓,No action,0
+CUST-7349,0.177,Low,tenure_months ↓; plan_type_Two year ↓; total_charges ↑,No action,0
+CUST-7410,0.177,Low,tenure_months ↑; internet_service_No ↓; plan_type_Month-to-month ↑,No action,0
+CUST-2390,0.175,Low,internet_service_No ↓; tenure_months ↑; open_unresolved_count ↑,No action,1
+CUST-3783,0.174,Low,internet_service_No ↓; avg_resolution_hours ↑; plan_type_Month-to-month ↓,No action,0
+CUST-3675,0.173,Low,plan_type_Month-to-month ↓; tenure_months ↓; internet_service_Fiber optic ↓,No action,0
+CUST-7782,0.173,Low,tenure_months ↓; plan_type_Two year ↓; total_charges ↑,No action,0
+CUST-5680,0.172,Low,plan_type_Two year ↓; tenure_months ↓; total_charges ↑,No action,0
+CUST-8002,0.17,Low,plan_type_Month-to-month ↓; internet_service_Fiber optic ↓; avg_resolution_hours ↑,No action,0
+CUST-6753,0.17,Low,tenure_months ↓; plan_type_Month-to-month ↓; open_unresolved_count ↑,No action,0
+CUST-3368,0.169,Low,tenure_months ↓; plan_type_Month-to-month ↑; internet_service_Fiber optic ↓,No action,0
+CUST-5804,0.169,Low,tenure_months ↓; plan_type_Month-to-month ↓; n_contacts_30d ↑,No action,0
+CUST-5984,0.168,Low,tenure_months ↑; internet_service_No ↓; plan_type_Month-to-month ↑,No action,0
+CUST-8013,0.168,Low,tenure_months ↓; plan_type_Two year ↓; total_charges ↑,No action,0
+CUST-5218,0.168,Low,plan_type_Two year ↓; plan_type_Month-to-month ↓; tenure_months ↓,No action,0
+CUST-7370,0.166,Low,plan_type_Month-to-month ↓; tenure_months ↓; internet_service_Fiber optic ↓,No action,0
+CUST-6242,0.165,Low,internet_service_No ↓; tenure_months ↑; plan_type_Month-to-month ↑,No action,0
+CUST-7303,0.163,Low,plan_type_Month-to-month ↑; tenure_months ↓; internet_service_Fiber optic ↓,No action,0
+CUST-5638,0.163,Low,tenure_months ↑; internet_service_No ↓; plan_type_Month-to-month ↑,No action,0
+CUST-7800,0.162,Low,plan_type_Month-to-month ↓; internet_service_Fiber optic ↑; internet_service_No ↑,No action,0
+CUST-5272,0.162,Low,plan_type_Month-to-month ↓; tenure_months ↑; internet_service_Fiber optic ↓,No action,0
+CUST-6898,0.161,Low,plan_type_Month-to-month ↓; internet_service_Fiber optic ↓; internet_service_No ↑,No action,0
+CUST-2187,0.161,Low,plan_type_Two year ↓; plan_type_Month-to-month ↓; internet_service_Fiber optic ↑,No action,1
+CUST-5061,0.16,Low,plan_type_Two year ↓; tenure_months ↓; total_charges ↑,No action,0
+CUST-4241,0.16,Low,tenure_months ↓; plan_type_Month-to-month ↑; internet_service_Fiber optic ↓,No action,0
+CUST-3040,0.16,Low,plan_type_Month-to-month ↓; internet_service_Fiber optic ↓; internet_service_No ↑,No action,0
+CUST-5878,0.156,Low,internet_service_No ↓; tenure_months ↑; plan_type_Month-to-month ↑,No action,0
+CUST-6952,0.156,Low,internet_service_No ↓; reopen_count ↑; plan_type_Month-to-month ↓,No action,0
+CUST-7457,0.152,Low,tenure_months ↓; plan_type_Two year ↓; total_charges ↑,No action,0
+CUST-4322,0.151,Low,tenure_months ↓; plan_type_Month-to-month ↓; internet_service_Fiber optic ↓,No action,0
+CUST-2893,0.15,Low,tenure_months ↓; plan_type_Two year ↓; total_charges ↑,No action,0
+CUST-7941,0.15,Low,tenure_months ↓; plan_type_Month-to-month ↓; total_charges ↑,No action,0
+CUST-5906,0.149,Low,plan_type_Month-to-month ↓; internet_service_Fiber optic ↑; internet_service_No ↑,No action,0
+CUST-4640,0.148,Low,tenure_months ↓; total_charges ↑; plan_type_Month-to-month ↓,No action,0
+CUST-7195,0.148,Low,plan_type_Month-to-month ↓; internet_service_Fiber optic ↓; internet_service_No ↑,No action,0
+CUST-7838,0.147,Low,plan_type_Two year ↓; tenure_months ↑; plan_type_Month-to-month ↓,No action,0
+CUST-5606,0.146,Low,internet_service_No ↓; avg_resolution_hours ↑; tenure_months ↑,No action,0
+CUST-6376,0.146,Low,tenure_months ↑; plan_type_Month-to-month ↓; internet_service_Fiber optic ↓,No action,0
+CUST-4899,0.145,Low,internet_service_No ↓; tenure_months ↑; plan_type_Month-to-month ↑,No action,0
+CUST-5393,0.145,Low,tenure_months ↓; plan_type_Two year ↓; total_charges ↑,No action,0
+CUST-1526,0.144,Low,plan_type_Two year ↓; tenure_months ↓; total_charges ↑,No action,1
+CUST-4737,0.141,Low,tenure_months ↓; plan_type_Two year ↓; total_charges ↑,No action,0
+CUST-7193,0.139,Low,internet_service_No ↓; tenure_months ↑; plan_type_Month-to-month ↓,No action,0
+CUST-6869,0.139,Low,tenure_months ↓; plan_type_Two year ↓; reopen_count ↑,No action,0
+CUST-5792,0.139,Low,plan_type_Month-to-month ↓; tenure_months ↓; internet_service_Fiber optic ↓,No action,0
+CUST-4117,0.139,Low,tenure_months ↓; total_charges ↑; plan_type_Two year ↓,No action,0
+CUST-7355,0.139,Low,plan_type_Month-to-month ↓; internet_service_Fiber optic ↓; internet_service_No ↑,No action,0
+CUST-6651,0.138,Low,tenure_months ↓; plan_type_Month-to-month ↓; total_charges ↑,No action,0
+CUST-5406,0.138,Low,plan_type_Month-to-month ↓; tenure_months ↓; internet_service_Fiber optic ↓,No action,0
+CUST-7645,0.136,Low,plan_type_Month-to-month ↓; internet_service_Fiber optic ↓; internet_service_No ↑,No action,0
+CUST-1589,0.136,Low,plan_type_Month-to-month ↓; internet_service_Fiber optic ↓; internet_service_No ↑,No action,1
+CUST-5825,0.136,Low,plan_type_Month-to-month ↓; internet_service_Fiber optic ↓; internet_service_No ↑,No action,0
+CUST-4958,0.134,Low,plan_type_Two year ↓; tenure_months ↓; plan_type_Month-to-month ↓,No action,0
+CUST-4116,0.134,Low,plan_type_Month-to-month ↓; internet_service_Fiber optic ↓; internet_service_No ↑,No action,0
+CUST-5795,0.134,Low,plan_type_Month-to-month ↓; internet_service_Fiber optic ↓; avg_resolution_hours ↓,No action,0
+CUST-6977,0.134,Low,internet_service_No ↓; plan_type_Month-to-month ↑; tenure_months ↓,No action,0
+CUST-7179,0.134,Low,tenure_months ↓; plan_type_Month-to-month ↑; internet_service_Fiber optic ↓,No action,0
+CUST-3448,0.132,Low,internet_service_No ↓; plan_type_Month-to-month ↓; tenure_months ↑,No action,0
+CUST-6789,0.131,Low,plan_type_Month-to-month ↑; tenure_months ↓; internet_service_Fiber optic ↓,No action,0
+CUST-7615,0.13,Low,tenure_months ↓; plan_type_Month-to-month ↓; total_charges ↑,No action,0
+CUST-6236,0.13,Low,internet_service_No ↓; tenure_months ↑; plan_type_Month-to-month ↑,No action,0
+CUST-4443,0.129,Low,plan_type_Two year ↓; plan_type_Month-to-month ↓; internet_service_Fiber optic ↓,No action,0
+CUST-5338,0.128,Low,plan_type_Month-to-month ↓; internet_service_Fiber optic ↓; internet_service_No ↑,No action,0
+CUST-6660,0.128,Low,tenure_months ↓; plan_type_Month-to-month ↓; total_charges ↑,No action,0
+CUST-7623,0.128,Low,plan_type_Month-to-month ↓; tenure_months ↑; internet_service_Fiber optic ↓,No action,0
+CUST-3592,0.127,Low,tenure_months ↓; plan_type_Two year ↓; total_charges ↑,No action,0
+CUST-3022,0.126,Low,tenure_months ↓; plan_type_Two year ↓; total_charges ↑,No action,0
+CUST-3350,0.126,Low,plan_type_Two year ↓; plan_type_Month-to-month ↓; internet_service_Fiber optic ↑,No action,0
+CUST-2970,0.126,Low,tenure_months ↓; plan_type_Two year ↓; plan_type_Month-to-month ↓,No action,0
+CUST-5536,0.125,Low,tenure_months ↓; plan_type_Month-to-month ↓; internet_service_Fiber optic ↓,No action,0
+CUST-5788,0.125,Low,tenure_months ↓; total_charges ↑; plan_type_Two year ↓,No action,0
+CUST-6456,0.124,Low,plan_type_Two year ↓; tenure_months ↓; total_charges ↑,No action,0
+CUST-6603,0.123,Low,internet_service_No ↓; reopen_count ↑; plan_type_Month-to-month ↓,No action,0
+CUST-3840,0.123,Low,internet_service_No ↓; tenure_months ↑; plan_type_Month-to-month ↑,No action,0
+CUST-7826,0.123,Low,tenure_months ↓; plan_type_Two year ↓; total_charges ↑,No action,0
+CUST-5648,0.123,Low,internet_service_No ↓; plan_type_Month-to-month ↑; internet_service_Fiber optic ↓,No action,0
+CUST-7004,0.122,Low,internet_service_No ↓; tenure_months ↑; plan_type_Month-to-month ↑,No action,0
+CUST-3595,0.122,Low,plan_type_Two year ↓; tenure_months ↓; n_contacts_30d ↑,No action,0
+CUST-4362,0.12,Low,plan_type_Month-to-month ↓; tenure_months ↓; internet_service_Fiber optic ↓,No action,0
+CUST-7001,0.119,Low,tenure_months ↓; total_charges ↑; plan_type_Month-to-month ↓,No action,0
+CUST-3254,0.118,Low,internet_service_No ↓; tenure_months ↑; plan_type_Month-to-month ↑,No action,0
+CUST-5651,0.118,Low,plan_type_Month-to-month ↓; tenure_months ↓; internet_service_Fiber optic ↓,No action,0
+CUST-6103,0.117,Low,tenure_months ↓; plan_type_Two year ↓; total_charges ↑,No action,0
+CUST-5732,0.117,Low,internet_service_No ↓; plan_type_Month-to-month ↓; tenure_months ↑,No action,0
+CUST-2578,0.117,Low,tenure_months ↑; plan_type_Month-to-month ↓; internet_service_Fiber optic ↓,No action,1
+CUST-7478,0.117,Low,plan_type_Two year ↓; plan_type_Month-to-month ↓; internet_service_Fiber optic ↑,No action,0
+CUST-7068,0.117,Low,tenure_months ↓; plan_type_Two year ↓; total_charges ↑,No action,0
+CUST-7545,0.116,Low,tenure_months ↓; plan_type_Two year ↓; total_charges ↑,No action,0
+CUST-5493,0.115,Low,tenure_months ↓; plan_type_Two year ↓; total_charges ↑,No action,0
+CUST-5629,0.114,Low,tenure_months ↓; plan_type_Two year ↓; total_charges ↑,No action,0
+CUST-7818,0.114,Low,internet_service_No ↓; avg_resolution_hours ↑; plan_type_Month-to-month ↑,No action,0
+CUST-4175,0.114,Low,internet_service_No ↓; plan_type_Month-to-month ↓; internet_service_Fiber optic ↓,No action,0
+CUST-3514,0.114,Low,tenure_months ↓; plan_type_Two year ↓; total_charges ↑,No action,0
+CUST-5373,0.113,Low,plan_type_Month-to-month ↓; internet_service_Fiber optic ↓; internet_service_No ↑,No action,0
+CUST-2334,0.112,Low,internet_service_No ↓; avg_resolution_hours ↑; plan_type_Month-to-month ↓,No action,1
+CUST-3038,0.112,Low,tenure_months ↑; internet_service_No ↓; plan_type_Month-to-month ↓,No action,0
+CUST-5049,0.11,Low,tenure_months ↓; plan_type_Month-to-month ↓; internet_service_Fiber optic ↓,No action,0
+CUST-7383,0.109,Low,tenure_months ↓; plan_type_Month-to-month ↑; internet_service_Fiber optic ↓,No action,0
+CUST-6170,0.109,Low,plan_type_Two year ↓; tenure_months ↓; avg_resolution_hours ↑,No action,0
+CUST-3361,0.108,Low,plan_type_Month-to-month ↓; tenure_months ↓; internet_service_Fiber optic ↓,No action,0
+CUST-4166,0.108,Low,plan_type_Two year ↓; tenure_months ↓; plan_type_Month-to-month ↓,No action,0
+CUST-4473,0.106,Low,tenure_months ↓; plan_type_Two year ↓; total_charges ↑,No action,0
+CUST-3606,0.106,Low,plan_type_Two year ↓; tenure_months ↓; plan_type_Month-to-month ↓,No action,0
+CUST-5646,0.106,Low,tenure_months ↓; total_charges ↑; plan_type_Two year ↓,No action,0
+CUST-4131,0.105,Low,tenure_months ↓; plan_type_Month-to-month ↑; internet_service_Fiber optic ↓,No action,0
+CUST-7587,0.104,Low,tenure_months ↓; plan_type_Two year ↓; total_charges ↑,No action,0
+CUST-4038,0.103,Low,tenure_months ↓; plan_type_Two year ↓; total_charges ↑,No action,0
+CUST-7515,0.102,Low,plan_type_Two year ↓; plan_type_Month-to-month ↓; tenure_months ↓,No action,0
+CUST-5237,0.1,Low,internet_service_No ↓; tenure_months ↑; plan_type_Month-to-month ↑,No action,0
+CUST-7971,0.099,Low,tenure_months ↓; plan_type_Month-to-month ↓; internet_service_Fiber optic ↓,No action,0
+CUST-6391,0.099,Low,internet_service_No ↓; tenure_months ↑; plan_type_Month-to-month ↓,No action,0
+CUST-7151,0.098,Low,tenure_months ↓; total_charges ↑; plan_type_Two year ↓,No action,0
+CUST-3692,0.098,Low,plan_type_Two year ↓; plan_type_Month-to-month ↓; internet_service_Fiber optic ↓,No action,0
+CUST-6477,0.097,Low,internet_service_No ↓; tenure_months ↑; plan_type_Month-to-month ↓,No action,0
+CUST-7369,0.096,Low,tenure_months ↓; plan_type_Two year ↓; total_charges ↑,No action,0
+CUST-1958,0.094,Low,tenure_months ↓; plan_type_Month-to-month ↓; internet_service_Fiber optic ↓,No action,1
+CUST-6852,0.094,Low,plan_type_Two year ↓; internet_service_No ↓; tenure_months ↑,No action,0
+CUST-1998,0.093,Low,tenure_months ↑; internet_service_No ↓; plan_type_Month-to-month ↓,No action,1
+CUST-7054,0.093,Low,internet_service_No ↓; tenure_months ↑; plan_type_Month-to-month ↓,No action,0
+CUST-7744,0.092,Low,tenure_months ↓; plan_type_Month-to-month ↓; total_charges ↑,No action,0
+CUST-5473,0.091,Low,tenure_months ↓; plan_type_Month-to-month ↓; internet_service_Fiber optic ↓,No action,0
+CUST-3844,0.091,Low,tenure_months ↓; plan_type_Month-to-month ↓; total_charges ↑,No action,0
+CUST-3425,0.09,Low,tenure_months ↓; plan_type_Two year ↓; total_charges ↑,No action,0
+CUST-7104,0.09,Low,internet_service_No ↓; plan_type_Month-to-month ↑; internet_service_Fiber optic ↓,No action,0
+CUST-5323,0.089,Low,tenure_months ↓; plan_type_Month-to-month ↓; total_charges ↑,No action,0
+CUST-6939,0.089,Low,plan_type_Two year ↓; plan_type_Month-to-month ↓; tenure_months ↓,No action,0
+CUST-4145,0.089,Low,plan_type_Two year ↓; plan_type_Month-to-month ↓; tenure_months ↓,No action,0
+CUST-7181,0.089,Low,avg_resolution_hours ↑; tenure_months ↓; internet_service_No ↓,No action,0
+CUST-5991,0.088,Low,tenure_months ↓; plan_type_Two year ↓; total_charges ↑,No action,0
+CUST-6822,0.088,Low,plan_type_Month-to-month ↓; internet_service_Fiber optic ↓; internet_service_No ↑,No action,0
+CUST-4314,0.087,Low,tenure_months ↓; plan_type_Two year ↓; total_charges ↑,No action,0
+CUST-4121,0.087,Low,internet_service_No ↓; escalation_count ↑; plan_type_Month-to-month ↓,No action,0
+CUST-4904,0.085,Low,internet_service_No ↓; tenure_months ↓; plan_type_Month-to-month ↑,No action,0
+CUST-5117,0.085,Low,plan_type_Month-to-month ↓; tenure_months ↓; internet_service_Fiber optic ↓,No action,0
+CUST-5902,0.085,Low,internet_service_No ↓; plan_type_Month-to-month ↓; internet_service_Fiber optic ↓,No action,0
+CUST-4923,0.085,Low,plan_type_Two year ↓; plan_type_Month-to-month ↓; internet_service_Fiber optic ↓,No action,0
+CUST-7641,0.084,Low,plan_type_Two year ↓; tenure_months ↓; total_charges ↑,No action,0
+CUST-4696,0.082,Low,tenure_months ↓; plan_type_Two year ↓; plan_type_Month-to-month ↓,No action,0
+CUST-4995,0.082,Low,internet_service_No ↓; plan_type_Month-to-month ↓; tenure_months ↑,No action,0
+CUST-6896,0.082,Low,tenure_months ↓; plan_type_Month-to-month ↓; total_charges ↑,No action,0
+CUST-4181,0.081,Low,tenure_months ↓; plan_type_Two year ↓; total_charges ↑,No action,0
+CUST-7883,0.079,Low,tenure_months ↓; plan_type_Two year ↓; plan_type_Month-to-month ↓,No action,0
+CUST-1660,0.078,Low,plan_type_Month-to-month ↓; tenure_months ↓; internet_service_Fiber optic ↓,No action,1
+CUST-4668,0.077,Low,internet_service_No ↓; tenure_months ↓; plan_type_Month-to-month ↓,No action,0
+CUST-3793,0.077,Low,plan_type_Two year ↓; tenure_months ↓; plan_type_Month-to-month ↓,No action,0
+CUST-7598,0.076,Low,plan_type_Month-to-month ↓; tenure_months ↓; internet_service_Fiber optic ↓,No action,0
+CUST-6377,0.076,Low,internet_service_No ↓; plan_type_Month-to-month ↓; internet_service_Fiber optic ↓,No action,0
+CUST-3477,0.076,Low,tenure_months ↓; plan_type_Two year ↓; total_charges ↑,No action,0
+CUST-6457,0.075,Low,plan_type_Two year ↓; plan_type_Month-to-month ↓; tenure_months ↑,No action,0
+CUST-4867,0.073,Low,tenure_months ↓; plan_type_Month-to-month ↓; internet_service_Fiber optic ↓,No action,0
+CUST-5865,0.073,Low,tenure_months ↓; plan_type_Two year ↓; total_charges ↑,No action,0
+CUST-2874,0.071,Low,tenure_months ↓; plan_type_Month-to-month ↓; internet_service_Fiber optic ↓,No action,0
+CUST-4703,0.07,Low,plan_type_Two year ↓; tenure_months ↓; plan_type_Month-to-month ↓,No action,0
+CUST-6466,0.067,Low,tenure_months ↓; plan_type_Month-to-month ↓; total_charges ↑,No action,0
+CUST-7893,0.067,Low,plan_type_Two year ↓; internet_service_No ↓; plan_type_Month-to-month ↓,No action,0
+CUST-7382,0.067,Low,plan_type_Two year ↓; tenure_months ↓; n_contacts_30d ↑,No action,0
+CUST-4628,0.067,Low,internet_service_No ↓; tenure_months ↑; plan_type_Month-to-month ↓,No action,0
+CUST-4201,0.067,Low,plan_type_Two year ↓; tenure_months ↑; plan_type_Month-to-month ↓,No action,0
+CUST-6044,0.066,Low,plan_type_Two year ↓; internet_service_No ↓; plan_type_Month-to-month ↓,No action,0
+CUST-3747,0.066,Low,tenure_months ↓; plan_type_Two year ↓; total_charges ↑,No action,0
+CUST-6259,0.066,Low,tenure_months ↓; plan_type_Two year ↓; total_charges ↑,No action,0
+CUST-3881,0.064,Low,tenure_months ↓; plan_type_Two year ↓; total_charges ↑,No action,0
+CUST-4930,0.064,Low,plan_type_Two year ↓; tenure_months ↓; plan_type_Month-to-month ↓,No action,0
+CUST-1108,0.064,Low,tenure_months ↓; internet_service_No ↓; plan_type_Month-to-month ↑,No action,1
+CUST-4939,0.064,Low,plan_type_Two year ↓; tenure_months ↓; avg_resolution_hours ↑,No action,0
+CUST-3853,0.063,Low,tenure_months ↓; plan_type_Month-to-month ↓; internet_service_Fiber optic ↓,No action,0
+CUST-6795,0.062,Low,plan_type_Two year ↓; plan_type_Month-to-month ↓; internet_service_Fiber optic ↓,No action,0
+CUST-3483,0.062,Low,tenure_months ↓; plan_type_Two year ↓; total_charges ↑,No action,0
+CUST-5655,0.062,Low,internet_service_No ↓; plan_type_Month-to-month ↓; internet_service_Fiber optic ↓,No action,0
+CUST-3542,0.061,Low,tenure_months ↓; plan_type_Two year ↓; total_charges ↑,No action,0
+CUST-4895,0.061,Low,tenure_months ↓; plan_type_Two year ↓; plan_type_Month-to-month ↓,No action,0
+CUST-7736,0.06,Low,tenure_months ↓; plan_type_Two year ↓; plan_type_Month-to-month ↓,No action,0
+CUST-7459,0.059,Low,tenure_months ↓; plan_type_Two year ↓; total_charges ↑,No action,0
+CUST-2995,0.059,Low,internet_service_No ↓; tenure_months ↑; plan_type_Month-to-month ↓,No action,0
+CUST-7053,0.058,Low,tenure_months ↓; plan_type_Two year ↓; plan_type_Month-to-month ↓,No action,0
+CUST-7040,0.058,Low,avg_resolution_hours ↑; plan_type_Two year ↓; tenure_months ↓,No action,0
+CUST-3110,0.058,Low,tenure_months ↓; plan_type_Two year ↓; plan_type_Month-to-month ↓,No action,0
+CUST-2871,0.058,Low,plan_type_Month-to-month ↓; tenure_months ↓; internet_service_Fiber optic ↓,No action,0
+CUST-6390,0.058,Low,internet_service_No ↓; plan_type_Month-to-month ↓; internet_service_Fiber optic ↓,No action,0
+CUST-7831,0.057,Low,plan_type_Two year ↓; tenure_months ↓; plan_type_Month-to-month ↓,No action,0
+CUST-4917,0.056,Low,tenure_months ↓; plan_type_Two year ↓; reopen_count ↑,No action,0
+CUST-6429,0.056,Low,tenure_months ↓; plan_type_Two year ↓; total_charges ↑,No action,0
+CUST-3204,0.055,Low,plan_type_Two year ↓; internet_service_No ↓; tenure_months ↓,No action,0
+CUST-7075,0.055,Low,plan_type_Two year ↓; plan_type_Month-to-month ↓; internet_service_Fiber optic ↓,No action,0
+CUST-7846,0.055,Low,tenure_months ↓; total_charges ↑; plan_type_Month-to-month ↓,No action,0
+CUST-4169,0.055,Low,tenure_months ↓; plan_type_Month-to-month ↓; internet_service_Fiber optic ↓,No action,0
+CUST-5677,0.055,Low,tenure_months ↓; plan_type_Two year ↓; total_charges ↑,No action,0
+CUST-3228,0.054,Low,plan_type_Two year ↓; internet_service_No ↓; tenure_months ↑,No action,0
+CUST-7565,0.054,Low,internet_service_No ↓; tenure_months ↑; plan_type_Month-to-month ↓,No action,0
+CUST-6515,0.054,Low,internet_service_No ↓; plan_type_Month-to-month ↓; tenure_months ↓,No action,0
+CUST-4112,0.054,Low,plan_type_Two year ↓; internet_service_No ↓; plan_type_Month-to-month ↓,No action,0
+CUST-5773,0.054,Low,internet_service_No ↓; tenure_months ↑; plan_type_Month-to-month ↓,No action,0
+CUST-6541,0.053,Low,internet_service_No ↓; plan_type_Month-to-month ↓; internet_service_Fiber optic ↓,No action,0
+CUST-6986,0.053,Low,plan_type_Two year ↓; internet_service_No ↓; plan_type_Month-to-month ↓,No action,0
+CUST-5376,0.052,Low,tenure_months ↓; plan_type_Two year ↓; total_charges ↑,No action,0
+CUST-2994,0.052,Low,plan_type_Two year ↓; tenure_months ↓; plan_type_Month-to-month ↓,No action,0
+CUST-3609,0.052,Low,plan_type_Two year ↓; internet_service_No ↓; tenure_months ↑,No action,0
+CUST-7564,0.052,Low,plan_type_Two year ↓; plan_type_Month-to-month ↓; internet_service_Fiber optic ↓,No action,0
+CUST-5938,0.051,Low,tenure_months ↓; plan_type_Two year ↓; plan_type_Month-to-month ↓,No action,0
+CUST-3622,0.051,Low,tenure_months ↓; plan_type_Two year ↓; total_charges ↑,No action,0
+CUST-3485,0.051,Low,plan_type_Two year ↓; plan_type_Month-to-month ↓; tenure_months ↓,No action,0
+CUST-6446,0.051,Low,plan_type_Two year ↓; plan_type_Month-to-month ↓; internet_service_Fiber optic ↓,No action,0
+CUST-5570,0.051,Low,plan_type_Two year ↓; tenure_months ↓; plan_type_Month-to-month ↓,No action,0
+CUST-3393,0.05,Low,tenure_months ↓; plan_type_Two year ↓; plan_type_Month-to-month ↓,No action,0
+CUST-7606,0.05,Low,tenure_months ↓; plan_type_Two year ↓; total_charges ↑,No action,0
+CUST-6625,0.05,Low,plan_type_Two year ↓; tenure_months ↓; plan_type_Month-to-month ↓,No action,0
+CUST-6617,0.049,Low,internet_service_No ↓; plan_type_Month-to-month ↓; internet_service_Fiber optic ↓,No action,0
+CUST-2429,0.049,Low,tenure_months ↓; plan_type_Two year ↓; plan_type_Month-to-month ↓,No action,1
+CUST-4508,0.049,Low,tenure_months ↓; internet_service_No ↓; plan_type_Month-to-month ↓,No action,0
+CUST-5019,0.047,Low,plan_type_Two year ↓; tenure_months ↓; plan_type_Month-to-month ↓,No action,0
+CUST-6088,0.047,Low,internet_service_No ↓; tenure_months ↓; plan_type_Month-to-month ↓,No action,0
+CUST-3825,0.046,Low,plan_type_Two year ↓; tenure_months ↓; total_charges ↑,No action,0
+CUST-3693,0.045,Low,internet_service_No ↓; plan_type_Month-to-month ↓; internet_service_Fiber optic ↓,No action,0
+CUST-4758,0.044,Low,internet_service_No ↓; plan_type_Month-to-month ↓; tenure_months ↓,No action,0
+CUST-7762,0.044,Low,internet_service_No ↓; tenure_months ↓; plan_type_Month-to-month ↓,No action,0
+CUST-6755,0.044,Low,tenure_months ↓; plan_type_Month-to-month ↓; internet_service_Fiber optic ↓,No action,0
+CUST-6467,0.043,Low,tenure_months ↓; plan_type_Two year ↓; total_charges ↑,No action,0
+CUST-6743,0.042,Low,plan_type_Two year ↓; internet_service_No ↓; tenure_months ↑,No action,0
+CUST-4500,0.041,Low,tenure_months ↓; plan_type_Two year ↓; total_charges ↑,No action,0
+CUST-7891,0.041,Low,plan_type_Two year ↓; internet_service_No ↓; tenure_months ↑,No action,0
+CUST-5266,0.041,Low,plan_type_Two year ↓; internet_service_No ↓; tenure_months ↑,No action,0
+CUST-4603,0.04,Low,plan_type_Two year ↓; tenure_months ↓; plan_type_Month-to-month ↓,No action,0
+CUST-7482,0.04,Low,plan_type_Two year ↓; internet_service_No ↓; reopen_count ↑,No action,0
+CUST-5900,0.04,Low,plan_type_Two year ↓; internet_service_No ↓; tenure_months ↓,No action,0
+CUST-3428,0.039,Low,plan_type_Two year ↓; tenure_months ↓; internet_service_No ↓,No action,0
+CUST-4555,0.038,Low,tenure_months ↓; plan_type_Two year ↓; total_charges ↑,No action,0
+CUST-7671,0.038,Low,tenure_months ↓; plan_type_Month-to-month ↓; internet_service_Fiber optic ↓,No action,0
+CUST-4504,0.038,Low,tenure_months ↓; plan_type_Two year ↓; plan_type_Month-to-month ↓,No action,0
+CUST-7763,0.037,Low,tenure_months ↓; plan_type_Two year ↓; total_charges ↑,No action,0
+CUST-3475,0.037,Low,tenure_months ↓; plan_type_Two year ↓; total_charges ↑,No action,0
+CUST-6124,0.037,Low,tenure_months ↓; plan_type_Two year ↓; plan_type_Month-to-month ↓,No action,0
+CUST-2903,0.036,Low,tenure_months ↓; plan_type_Two year ↓; plan_type_Month-to-month ↓,No action,0
+CUST-6199,0.036,Low,tenure_months ↓; plan_type_Two year ↓; total_charges ↑,No action,0
+CUST-6991,0.036,Low,internet_service_No ↓; tenure_months ↓; plan_type_Month-to-month ↓,No action,0
+CUST-6055,0.036,Low,tenure_months ↓; internet_service_No ↓; plan_type_Month-to-month ↓,No action,0
+CUST-4579,0.035,Low,plan_type_Two year ↓; internet_service_No ↓; tenure_months ↓,No action,0
+CUST-3124,0.035,Low,internet_service_No ↓; plan_type_Month-to-month ↓; tenure_months ↓,No action,0
+CUST-5899,0.035,Low,internet_service_No ↓; plan_type_Month-to-month ↓; internet_service_Fiber optic ↓,No action,0
+CUST-6496,0.035,Low,tenure_months ↓; plan_type_Two year ↓; total_charges ↑,No action,0
+CUST-6386,0.035,Low,plan_type_Two year ↓; plan_type_Month-to-month ↓; internet_service_Fiber optic ↓,No action,0
+CUST-8012,0.034,Low,tenure_months ↓; internet_service_No ↓; plan_type_Month-to-month ↓,No action,0
+CUST-7146,0.034,Low,plan_type_Two year ↓; tenure_months ↓; plan_type_Month-to-month ↓,No action,0
+CUST-7354,0.034,Low,tenure_months ↓; plan_type_Two year ↓; total_charges ↑,No action,0
+CUST-2880,0.034,Low,internet_service_No ↓; tenure_months ↓; plan_type_Month-to-month ↓,No action,0
+CUST-7705,0.033,Low,tenure_months ↓; plan_type_Two year ↓; total_charges ↑,No action,0
+CUST-3619,0.033,Low,tenure_months ↓; plan_type_Two year ↓; plan_type_Month-to-month ↓,No action,0
+CUST-6849,0.032,Low,internet_service_No ↓; tenure_months ↓; plan_type_Month-to-month ↓,No action,0
+CUST-3207,0.032,Low,tenure_months ↓; internet_service_No ↓; plan_type_Month-to-month ↓,No action,0
+CUST-4255,0.031,Low,tenure_months ↓; plan_type_Two year ↓; total_charges ↑,No action,0
+CUST-5466,0.031,Low,internet_service_No ↓; tenure_months ↓; plan_type_Month-to-month ↓,No action,0
+CUST-6703,0.031,Low,tenure_months ↓; plan_type_Two year ↓; total_charges ↑,No action,0
+CUST-6803,0.031,Low,plan_type_Two year ↓; plan_type_Month-to-month ↓; tenure_months ↓,No action,0
+CUST-4881,0.029,Low,tenure_months ↓; internet_service_No ↓; plan_type_Month-to-month ↓,No action,0
+CUST-5073,0.029,Low,internet_service_No ↓; tenure_months ↓; plan_type_Month-to-month ↓,No action,0
+CUST-3051,0.029,Low,tenure_months ↓; plan_type_Two year ↓; total_charges ↑,No action,0
+CUST-6817,0.029,Low,plan_type_Two year ↓; tenure_months ↓; plan_type_Month-to-month ↓,No action,0
+CUST-4416,0.029,Low,plan_type_Two year ↓; internet_service_No ↓; plan_type_Month-to-month ↓,No action,0
+CUST-3414,0.028,Low,plan_type_Two year ↓; internet_service_No ↓; plan_type_Month-to-month ↓,No action,0
+CUST-4023,0.028,Low,tenure_months ↓; plan_type_Two year ↓; total_charges ↑,No action,0
+CUST-3861,0.027,Low,plan_type_Two year ↓; internet_service_No ↓; avg_resolution_hours ↑,No action,0
+CUST-6375,0.026,Low,internet_service_No ↓; plan_type_Month-to-month ↓; internet_service_Fiber optic ↓,No action,0
+CUST-6921,0.026,Low,plan_type_Two year ↓; tenure_months ↓; plan_type_Month-to-month ↓,No action,0
+CUST-5807,0.026,Low,tenure_months ↓; plan_type_Two year ↓; total_charges ↑,No action,0
+CUST-7649,0.026,Low,plan_type_Two year ↓; internet_service_No ↓; plan_type_Month-to-month ↓,No action,0
+CUST-4768,0.026,Low,plan_type_Two year ↓; internet_service_No ↓; plan_type_Month-to-month ↓,No action,0
+CUST-4865,0.025,Low,tenure_months ↓; internet_service_No ↓; plan_type_Month-to-month ↓,No action,0
+CUST-7648,0.025,Low,internet_service_No ↓; plan_type_Month-to-month ↓; internet_service_Fiber optic ↓,No action,0
+CUST-7233,0.025,Low,plan_type_Two year ↓; tenure_months ↓; internet_service_No ↓,No action,0
+CUST-3637,0.025,Low,tenure_months ↓; plan_type_Two year ↓; internet_service_No ↓,No action,0
+CUST-6780,0.025,Low,plan_type_Two year ↓; internet_service_No ↓; tenure_months ↓,No action,0
+CUST-4977,0.024,Low,tenure_months ↓; plan_type_Two year ↓; total_charges ↑,No action,0
+CUST-3981,0.024,Low,tenure_months ↓; plan_type_Two year ↓; total_charges ↑,No action,0
+CUST-5989,0.023,Low,tenure_months ↓; plan_type_Two year ↓; total_charges ↑,No action,0
+CUST-6152,0.023,Low,plan_type_Two year ↓; internet_service_No ↓; plan_type_Month-to-month ↓,No action,0
+CUST-4119,0.023,Low,plan_type_Two year ↓; tenure_months ↓; plan_type_Month-to-month ↓,No action,0
+CUST-7337,0.023,Low,tenure_months ↓; internet_service_No ↓; plan_type_Month-to-month ↓,No action,0
+CUST-6217,0.022,Low,internet_service_No ↓; plan_type_Month-to-month ↓; tenure_months ↓,No action,0
+CUST-4813,0.022,Low,plan_type_Two year ↓; internet_service_No ↓; plan_type_Month-to-month ↓,No action,0
+CUST-7317,0.022,Low,plan_type_Two year ↓; internet_service_No ↓; plan_type_Month-to-month ↓,No action,0
+CUST-5948,0.022,Low,tenure_months ↓; internet_service_No ↓; plan_type_Month-to-month ↓,No action,0
+CUST-3170,0.022,Low,plan_type_Two year ↓; internet_service_No ↓; plan_type_Month-to-month ↓,No action,0
+CUST-6313,0.021,Low,tenure_months ↓; plan_type_Two year ↓; plan_type_Month-to-month ↓,No action,0
+CUST-3153,0.021,Low,tenure_months ↓; plan_type_Two year ↓; plan_type_Month-to-month ↓,No action,0
+CUST-5642,0.021,Low,tenure_months ↓; plan_type_Two year ↓; total_charges ↑,No action,0
+CUST-7979,0.021,Low,plan_type_Two year ↓; internet_service_No ↓; tenure_months ↓,No action,0
+CUST-4850,0.02,Low,plan_type_Two year ↓; plan_type_Month-to-month ↓; tenure_months ↓,No action,0
+CUST-4548,0.02,Low,tenure_months ↓; plan_type_Two year ↓; internet_service_No ↓,No action,0
+CUST-4332,0.019,Low,plan_type_Two year ↓; internet_service_No ↓; plan_type_Month-to-month ↓,No action,0
+CUST-2909,0.019,Low,plan_type_Two year ↓; internet_service_No ↓; plan_type_Month-to-month ↓,No action,0
+CUST-7027,0.019,Low,tenure_months ↓; plan_type_Two year ↓; internet_service_No ↓,No action,0
+CUST-7780,0.019,Low,plan_type_Two year ↓; internet_service_No ↓; plan_type_Month-to-month ↓,No action,0
+CUST-4010,0.019,Low,plan_type_Two year ↓; tenure_months ↓; internet_service_No ↓,No action,0
+CUST-6399,0.019,Low,plan_type_Two year ↓; internet_service_No ↓; tenure_months ↓,No action,0
+CUST-2966,0.019,Low,tenure_months ↓; plan_type_Two year ↓; internet_service_No ↓,No action,0
+CUST-3281,0.019,Low,plan_type_Two year ↓; internet_service_No ↓; tenure_months ↓,No action,0
+CUST-7117,0.019,Low,tenure_months ↓; plan_type_Two year ↓; total_charges ↑,No action,0
+CUST-3070,0.018,Low,plan_type_Two year ↓; internet_service_No ↓; tenure_months ↓,No action,0
+CUST-4006,0.018,Low,tenure_months ↓; plan_type_Two year ↓; internet_service_No ↓,No action,0
+CUST-4770,0.018,Low,plan_type_Two year ↓; internet_service_No ↓; plan_type_Month-to-month ↓,No action,0
+CUST-3497,0.018,Low,plan_type_Two year ↓; internet_service_No ↓; plan_type_Month-to-month ↓,No action,0
+CUST-3723,0.017,Low,plan_type_Two year ↓; internet_service_No ↓; plan_type_Month-to-month ↓,No action,0
+CUST-5380,0.017,Low,plan_type_Two year ↓; internet_service_No ↓; tenure_months ↓,No action,0
+CUST-6845,0.017,Low,plan_type_Two year ↓; tenure_months ↓; plan_type_Month-to-month ↓,No action,0
+CUST-7604,0.017,Low,plan_type_Two year ↓; tenure_months ↓; internet_service_No ↓,No action,0
+CUST-6074,0.017,Low,tenure_months ↓; internet_service_No ↓; plan_type_Month-to-month ↓,No action,0
+CUST-4238,0.016,Low,plan_type_Two year ↓; internet_service_No ↓; plan_type_Month-to-month ↓,No action,0
+CUST-3392,0.016,Low,tenure_months ↓; plan_type_Two year ↓; plan_type_Month-to-month ↓,No action,0
+CUST-4692,0.016,Low,plan_type_Two year ↓; tenure_months ↓; internet_service_No ↓,No action,0
+CUST-6895,0.016,Low,plan_type_Two year ↓; tenure_months ↓; plan_type_Month-to-month ↓,No action,0
+CUST-7077,0.015,Low,plan_type_Two year ↓; internet_service_No ↓; plan_type_Month-to-month ↓,No action,0
+CUST-7761,0.014,Low,plan_type_Two year ↓; internet_service_No ↓; plan_type_Month-to-month ↓,No action,0
+CUST-6459,0.014,Low,plan_type_Two year ↓; internet_service_No ↓; tenure_months ↓,No action,0
+CUST-4215,0.014,Low,plan_type_Two year ↓; tenure_months ↓; plan_type_Month-to-month ↓,No action,0
+CUST-7252,0.014,Low,plan_type_Two year ↓; internet_service_No ↓; plan_type_Month-to-month ↓,No action,0
+CUST-4688,0.014,Low,plan_type_Two year ↓; internet_service_No ↓; plan_type_Month-to-month ↓,No action,0
+CUST-4170,0.013,Low,plan_type_Two year ↓; tenure_months ↓; internet_service_No ↓,No action,0
+CUST-3094,0.013,Low,tenure_months ↓; plan_type_Two year ↓; plan_type_Month-to-month ↓,No action,0
+CUST-6383,0.013,Low,tenure_months ↓; plan_type_Two year ↓; internet_service_No ↓,No action,0
+CUST-3768,0.013,Low,plan_type_Two year ↓; internet_service_No ↓; tenure_months ↓,No action,0
+CUST-5888,0.013,Low,plan_type_Two year ↓; internet_service_No ↓; tenure_months ↓,No action,0
+CUST-4953,0.013,Low,plan_type_Two year ↓; tenure_months ↓; internet_service_No ↓,No action,0
+CUST-6010,0.013,Low,tenure_months ↓; plan_type_Two year ↓; internet_service_No ↓,No action,0
+CUST-3029,0.012,Low,plan_type_Two year ↓; tenure_months ↓; internet_service_No ↓,No action,0
+CUST-3352,0.012,Low,tenure_months ↓; plan_type_Two year ↓; internet_service_No ↓,No action,0
+CUST-4945,0.012,Low,plan_type_Two year ↓; internet_service_No ↓; plan_type_Month-to-month ↓,No action,0
+CUST-3210,0.012,Low,plan_type_Two year ↓; tenure_months ↓; internet_service_No ↓,No action,0
+CUST-6418,0.011,Low,plan_type_Two year ↓; internet_service_No ↓; tenure_months ↓,No action,0
+CUST-3171,0.011,Low,tenure_months ↓; plan_type_Two year ↓; internet_service_No ↓,No action,0
+CUST-3371,0.011,Low,plan_type_Two year ↓; internet_service_No ↓; tenure_months ↓,No action,0
+CUST-5044,0.011,Low,plan_type_Two year ↓; internet_service_No ↓; plan_type_Month-to-month ↓,No action,0
+CUST-5987,0.011,Low,tenure_months ↓; plan_type_Two year ↓; internet_service_No ↓,No action,0
+CUST-7712,0.01,Low,plan_type_Two year ↓; internet_service_No ↓; tenure_months ↓,No action,0
+CUST-3805,0.01,Low,plan_type_Two year ↓; tenure_months ↓; internet_service_No ↓,No action,0
+CUST-3761,0.01,Low,plan_type_Two year ↓; tenure_months ↓; internet_service_No ↓,No action,0
+CUST-6211,0.01,Low,tenure_months ↓; plan_type_Two year ↓; internet_service_No ↓,No action,0
+CUST-4086,0.009,Low,plan_type_Two year ↓; tenure_months ↓; internet_service_No ↓,No action,0
+CUST-7229,0.009,Low,plan_type_Two year ↓; tenure_months ↓; internet_service_No ↓,No action,0
+CUST-5072,0.009,Low,tenure_months ↓; plan_type_Two year ↓; internet_service_No ↓,No action,0
+CUST-2935,0.009,Low,plan_type_Two year ↓; internet_service_No ↓; plan_type_Month-to-month ↓,No action,0
+CUST-5652,0.009,Low,plan_type_Two year ↓; internet_service_No ↓; plan_type_Month-to-month ↓,No action,0
+CUST-7917,0.009,Low,tenure_months ↓; plan_type_Two year ↓; internet_service_No ↓,No action,0
+CUST-5494,0.008,Low,plan_type_Two year ↓; tenure_months ↓; internet_service_No ↓,No action,0
+CUST-7141,0.008,Low,tenure_months ↓; plan_type_Two year ↓; internet_service_No ↓,No action,0
+CUST-4723,0.008,Low,tenure_months ↓; plan_type_Two year ↓; internet_service_No ↓,No action,0
+CUST-7858,0.008,Low,tenure_months ↓; plan_type_Two year ↓; internet_service_No ↓,No action,0
+CUST-3876,0.008,Low,plan_type_Two year ↓; internet_service_No ↓; plan_type_Month-to-month ↓,No action,0
+CUST-6686,0.008,Low,plan_type_Two year ↓; internet_service_No ↓; tenure_months ↓,No action,0
+CUST-3014,0.008,Low,plan_type_Two year ↓; tenure_months ↓; internet_service_No ↓,No action,0
+CUST-4591,0.008,Low,tenure_months ↓; plan_type_Two year ↓; internet_service_No ↓,No action,0
+CUST-6450,0.008,Low,tenure_months ↓; plan_type_Two year ↓; internet_service_No ↓,No action,0
+CUST-3607,0.008,Low,plan_type_Two year ↓; tenure_months ↓; internet_service_No ↓,No action,0
+CUST-6666,0.008,Low,plan_type_Two year ↓; tenure_months ↓; internet_service_No ↓,No action,0
+CUST-5429,0.007,Low,tenure_months ↓; plan_type_Two year ↓; internet_service_No ↓,No action,0
+CUST-5358,0.007,Low,tenure_months ↓; plan_type_Two year ↓; internet_service_No ↓,No action,0
+CUST-3012,0.007,Low,tenure_months ↓; plan_type_Two year ↓; internet_service_No ↓,No action,0
+CUST-6149,0.007,Low,plan_type_Two year ↓; internet_service_No ↓; tenure_months ↓,No action,0
+CUST-5800,0.006,Low,tenure_months ↓; plan_type_Two year ↓; internet_service_No ↓,No action,0
+CUST-7084,0.006,Low,tenure_months ↓; plan_type_Two year ↓; internet_service_No ↓,No action,0
+CUST-5925,0.005,Low,tenure_months ↓; plan_type_Two year ↓; internet_service_No ↓,No action,0
+CUST-3852,0.005,Low,tenure_months ↓; plan_type_Two year ↓; internet_service_No ↓,No action,0
+CUST-2996,0.005,Low,tenure_months ↓; plan_type_Two year ↓; internet_service_No ↓,No action,0
+CUST-3405,0.005,Low,tenure_months ↓; plan_type_Two year ↓; internet_service_No ↓,No action,0

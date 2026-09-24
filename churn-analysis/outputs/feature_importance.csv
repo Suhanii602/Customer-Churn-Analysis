@@ -1,0 +1,39 @@
+feature,mean_abs_shap
+tenure_months,0.5406868453488478
+plan_type_Two year,0.41721671997158877
+plan_type_Month-to-month,0.39221686073952716
+internet_service_Fiber optic,0.3019330043304846
+internet_service_No,0.3015256763020045
+total_charges,0.2607177902028692
+charges_per_tenure,0.23378298366119868
+avg_resolution_hours,0.1701437284475984
+n_contacts_30d,0.16350538485476956
+reopen_count,0.1515489719409473
+n_repeat_contacts,0.13232395168582178
+service_friction_score,0.12870910919390588
+first_contact_resolved,0.11241156073691978
+payment_method_Electronic check,0.11069599127583217
+severity_Medium,0.10520228839005862
+open_unresolved_count,0.10299117731571396
+payment_method_Mailed check,0.10176394348097101
+csat_score,0.09332846402758506
+escalation_count,0.08714408869195711
+severity_Low,0.08589672054800869
+payment_method_Credit card (automatic),0.07931068720540678
+channel_Email,0.07896515823952334
+payment_method_Bank transfer (automatic),0.0672158400190701
+contacts_per_tenure_month,0.06683133541708054
+internet_service_DSL,0.056454321937738076
+monthly_charges,0.04807740235939592
+plan_type_One year,0.045609249843274635
+channel_Ticket,0.042719910465093096
+n_complaints_30d,0.03924270717465894
+repeat_contact_rate,0.038262832722068076
+channel_Call,0.03383984615804446
+sla_breached,0.03165945808406036
+unresolved_burden,0.02551613768360361
+days_since_last_complaint,0.024937660913610344
+pending_age_days,0.024110042909431306
+channel_Chat,0.01727117707561698
+severity_High,0.010677173698617648
+max_resolution_hours,0.0021412034178725477
